@@ -1,4 +1,4 @@
-<img src="assets/hero.svg" width="100%" alt="Nourseen Tarek, CS senior at Alryada University. Security Engineering and DevSecOps.">
+<img src="assets/hero.svg" width="100%" alt="Nourseen Tarek. Security engineering, moving toward DevSecOps, across cloud, AI, automation, and observability.">
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nourseen-tarek-1a9718399">LinkedIn</a>
@@ -9,8 +9,6 @@
 </p>
 
 I build systems with security inside the architecture, from infrastructure and observability to investigation and edge AI.
-
-<img src="assets/direction.svg" width="100%" alt="Core: Security engineering. Direction: DevSecOps. Supporting: cloud, AI, automation, and observability.">
 
 ## Now
 
@@ -70,29 +68,29 @@ Network security &#183; firewall fundamentals
 
 **Security**
 
-<img alt="Network security" src="https://img.shields.io/badge/Network%20security-5A0F1B?style=flat-square"> <img alt="Firewalls" src="https://img.shields.io/badge/Firewalls-5A0F1B?style=flat-square"> <img alt="IDS / IPS" src="https://img.shields.io/badge/IDS%20%2F%20IPS-5A0F1B?style=flat-square"> <img alt="Threat modeling" src="https://img.shields.io/badge/Threat%20modeling-5A0F1B?style=flat-square"> <img alt="OPA / Rego" src="https://img.shields.io/badge/OPA%20%2F%20Rego-5A0F1B?style=flat-square">
+<img alt="Network security" src="https://img.shields.io/badge/Network%20security-7A3544?style=flat-square"> <img alt="Firewalls" src="https://img.shields.io/badge/Firewalls-7A3544?style=flat-square"> <img alt="IDS / IPS" src="https://img.shields.io/badge/IDS%20%2F%20IPS-7A3544?style=flat-square"> <img alt="Threat modeling" src="https://img.shields.io/badge/Threat%20modeling-7A3544?style=flat-square"> <img alt="OPA / Rego" src="https://img.shields.io/badge/OPA%20%2F%20Rego-7A3544?style=flat-square">
 
 **Systems**
 
-<img alt="Docker" src="https://img.shields.io/badge/Docker-5A0F1B?style=flat-square&logo=docker&logoColor=F4EDE4"> <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-5A0F1B?style=flat-square&logo=fastapi&logoColor=F4EDE4"> <img alt="OpenTelemetry" src="https://img.shields.io/badge/OpenTelemetry-5A0F1B?style=flat-square&logo=opentelemetry&logoColor=F4EDE4"> <img alt="Dynatrace" src="https://img.shields.io/badge/Dynatrace-5A0F1B?style=flat-square&logo=dynatrace&logoColor=F4EDE4"> <img alt="Splunk" src="https://img.shields.io/badge/Splunk-5A0F1B?style=flat-square&logo=splunk&logoColor=F4EDE4"> <img alt="Cloud Run" src="https://img.shields.io/badge/Cloud%20Run-5A0F1B?style=flat-square&logo=googlecloud&logoColor=F4EDE4">
+<img alt="Docker" src="https://img.shields.io/badge/Docker-7A3544?style=flat-square&logo=docker&logoColor=F4EDE4"> <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-7A3544?style=flat-square&logo=fastapi&logoColor=F4EDE4"> <img alt="OpenTelemetry" src="https://img.shields.io/badge/OpenTelemetry-7A3544?style=flat-square&logo=opentelemetry&logoColor=F4EDE4"> <img alt="Dynatrace" src="https://img.shields.io/badge/Dynatrace-7A3544?style=flat-square&logo=dynatrace&logoColor=F4EDE4"> <img alt="Splunk" src="https://img.shields.io/badge/Splunk-7A3544?style=flat-square&logo=splunk&logoColor=F4EDE4"> <img alt="Cloud Run" src="https://img.shields.io/badge/Cloud%20Run-7A3544?style=flat-square&logo=googlecloud&logoColor=F4EDE4">
 
 **AI and automation**
 
-<img alt="Bayesian reasoning" src="https://img.shields.io/badge/Bayesian%20reasoning-5A0F1B?style=flat-square"> <img alt="Information gain" src="https://img.shields.io/badge/Information%20gain-5A0F1B?style=flat-square"> <img alt="Gemini" src="https://img.shields.io/badge/Gemini-5A0F1B?style=flat-square&logo=googlegemini&logoColor=F4EDE4"> <img alt="Automation" src="https://img.shields.io/badge/Automation-5A0F1B?style=flat-square">
+<img alt="Bayesian reasoning" src="https://img.shields.io/badge/Bayesian%20reasoning-7A3544?style=flat-square"> <img alt="Information gain" src="https://img.shields.io/badge/Information%20gain-7A3544?style=flat-square"> <img alt="Gemini" src="https://img.shields.io/badge/Gemini-7A3544?style=flat-square&logo=googlegemini&logoColor=F4EDE4"> <img alt="Automation" src="https://img.shields.io/badge/Automation-7A3544?style=flat-square">
 
 **Development**
 
-<img alt="Python" src="https://img.shields.io/badge/Python-5A0F1B?style=flat-square&logo=python&logoColor=F4EDE4"> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-5A0F1B?style=flat-square&logo=typescript&logoColor=F4EDE4"> <img alt="React" src="https://img.shields.io/badge/React-5A0F1B?style=flat-square&logo=react&logoColor=F4EDE4">
+<img alt="Python" src="https://img.shields.io/badge/Python-7A3544?style=flat-square&logo=python&logoColor=F4EDE4"> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-7A3544?style=flat-square&logo=typescript&logoColor=F4EDE4"> <img alt="React" src="https://img.shields.io/badge/React-7A3544?style=flat-square&logo=react&logoColor=F4EDE4">
 
 ## GitHub
 
 <table>
 <tr>
 <td width="58%" valign="top">
-<img alt="GitHub stats for nourseen6" src="https://github-readme-stats.vercel.app/api?username=nourseen6&show_icons=true&hide_rank=true&hide_border=true&bg_color=0C0A0B&title_color=F4EDE4&text_color=CDBFB2&icon_color=C8A96B">
+<img alt="GitHub stats for nourseen6" src="https://github-readme-stats.vercel.app/api?username=nourseen6&show_icons=true&hide_rank=true&hide_border=true&bg_color=F6EFE6&title_color=3E1820&text_color=6E534C&icon_color=7A3544">
 </td>
 <td width="42%" valign="top">
-<img alt="Most used languages on GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nourseen6&layout=compact&hide_border=true&bg_color=0C0A0B&title_color=F4EDE4&text_color=CDBFB2">
+<img alt="Most used languages on GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nourseen6&layout=compact&hide_border=true&bg_color=F6EFE6&title_color=3E1820&text_color=6E534C">
 </td>
 </tr>
 </table>
