@@ -1,17 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="360" viewBox="0 0 960 360" fill="none" role="img" aria-label="Nourseen Tarek. Security engineering, moving toward DevSecOps.">
-  <rect width="620" height="360" fill="#F6EFE6"/>
-  <rect x="620" width="340" height="360" fill="#7A3544"/>
-  <rect x="620" width="3" height="360" fill="#C8A96B"/>
-  <text x="48" y="72" fill="#7A3544" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="3.2">SECURITY ENGINEERING</text>
-  <text x="48" y="148" fill="#3E1820" font-family="Georgia, 'Times New Roman', serif" font-size="60">Nourseen</text>
-  <text x="48" y="214" fill="#3E1820" font-family="Georgia, 'Times New Roman', serif" font-size="60">Tarek</text>
-  <rect x="48" y="242" width="52" height="2" fill="#C8A96B"/>
-  <text x="48" y="286" fill="#6E534C" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17">Building secure and intelligent systems</text>
-  <text x="48" y="312" fill="#6E534C" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17">across security, infrastructure, and AI.</text>
-  <circle cx="790" cy="78" r="26" fill="none" stroke="#E7D3A1" stroke-width="1.25"/>
-  <text x="790" y="84" text-anchor="middle" fill="#F6EFE6" font-family="Georgia, 'Times New Roman', serif" font-size="16">NT</text>
-  <text x="656" y="168" fill="#E7D3A1" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2.8">DIRECTION</text>
-  <text x="656" y="214" fill="#F6EFE6" font-family="Georgia, 'Times New Roman', serif" font-size="32">DevSecOps</text>
-  <text x="656" y="268" fill="#F3E0D4" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15">Cloud &#183; AI</text>
-  <text x="656" y="292" fill="#F3E0D4" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15">Automation &#183; Observability</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="250" viewBox="0 0 960 250" fill="none" role="img" aria-label="Nourseen Tarek. Security engineering, toward DevSecOps.">
+  <rect width="960" height="250" fill="#F4EBE3"/>
+  <circle cx="128" cy="125" r="86" fill="none" stroke="#6B2C3A" stroke-width="1.6"/>
+  <circle cx="128" cy="125" r="74" fill="none" stroke="#C4A46A" stroke-width="1"/>
+  <text x="128" y="136" text-anchor="middle" fill="#6B2C3A" font-family="Georgia, 'Times New Roman', serif" font-size="36">NT</text>
+  <text x="248" y="118" fill="#3C241C" font-family="Georgia, 'Times New Roman', serif" font-size="48">Nourseen Tarek</text>
+  <rect x="250" y="142" width="46" height="2" fill="#C4A46A"/>
+  <text x="248" y="176" fill="#6B2C3A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" letter-spacing="1.4">Security engineering, toward DevSecOps</text>
 </svg>

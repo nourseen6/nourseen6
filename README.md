@@ -1,4 +1,6 @@
-<img src="assets/hero.svg" width="100%" alt="Nourseen Tarek. Security engineering, moving toward DevSecOps, across cloud, AI, automation, and observability.">
+<img src="assets/hero.svg" width="100%" alt="Nourseen Tarek. A seal with her initials. Security engineering, toward DevSecOps.">
+
+<p align="center"><em>Security belongs inside the system.</em></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nourseen-tarek-1a9718399">LinkedIn</a>
@@ -8,96 +10,64 @@
   <a href="mailto:nourkhfaga@gmail.com">Email</a>
 </p>
 
-I build systems with security inside the architecture, from infrastructure and observability to investigation and edge AI.
-
-## Now
-
 <table>
 <tr>
-<td width="50%" valign="top">
-<img src="assets/rule.svg" width="88" alt=""><br><br>
-<strong>SentriX Core</strong><br>
-Secure edge-AI personal safety<br><br>
-Graduation project &#183; In progress<br><br>
-A safety path that is still being built: edge AI, connectivity, a wearable, mobile, cloud, and security across that path. This repository is the design and the security plan.<br><br>
-Edge AI &#183; Security architecture &#183; BLE / cellular &#183; Mobile &#183; Cloud<br><br>
-<a href="https://github.com/nourseen6/sentrix-core">Repository</a>
-</td>
-<td width="50%" valign="top">
-<img src="assets/rule.svg" width="88" alt=""><br><br>
-<strong>Incident Commander</strong><br>
-Evidence-driven incident investigation<br><br>
-With Shahesta Salama &#183; Hackathon &#183; Prize winner<br><br>
-When more than one explanation fits, the system keeps competing hypotheses, updates belief as evidence arrives, and chooses the next check by expected information gain.<br><br>
-Python &#183; FastAPI &#183; TypeScript &#183; React &#183; Docker &#183; OpenTelemetry &#183; OPA / Rego<br><br>
-<a href="https://github.com/nourseen6/incident-commander">Repository</a>
-</td>
+<td width="22%"><strong>Building</strong></td>
+<td><a href="https://github.com/nourseen6/sentrix-core">SentriX Core</a> and <a href="https://github.com/nourseen6/incident-commander">Incident Commander</a></td>
+</tr>
+<tr>
+<td><strong>Direction</strong></td>
+<td>DevSecOps</td>
+</tr>
+<tr>
+<td><strong>Across</strong></td>
+<td>Cloud &#183; AI &#183; Automation &#183; Observability</td>
 </tr>
 </table>
 
-## Also
+## Work
 
-**[Goldenrod](https://github.com/nourseen6/goldenrod)** &#183; Agentic Cinema hackathon
+**[SentriX Core](https://github.com/nourseen6/sentrix-core)**  
+Graduation project, in progress. A personal-safety path: edge AI, connectivity, mobile, cloud, and the security plan.
 
-Checks a script revision against facts already established and decisions already logged.
+**[Incident Commander](https://github.com/nourseen6/incident-commander)**  
+With Shahesta Salama. Competing hypotheses, then the next check by expected information gain. Hackathon, prize winner.
 
-Python &#183; Gemini &#183; ClickHouse &#183; Cloud Run
+**[Goldenrod](https://github.com/nourseen6/goldenrod)**  
+A script revision, checked against facts and decisions already logged.
 
-**[Fortinet device management](https://github.com/nourseen6/Fortinet-Device-Management-with-FortiManager)**
-
-FortiGate devices through FortiManager: configuration, security policies, and troubleshooting.
+**[Fortinet device management](https://github.com/nourseen6/Fortinet-Device-Management-with-FortiManager)**  
+FortiGate through FortiManager: configuration, policies, and troubleshooting.
 
 ## Experience
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<strong>EJADA</strong><br>
-Observability intern &#183; 2026<br><br>
-Dynatrace &#183; Splunk &#183; application and infrastructure monitoring
-</td>
-<td width="50%" valign="top">
-<strong>DEPI</strong><br>
-Fortinet cybersecurity training<br><br>
-Network security &#183; firewall fundamentals
-</td>
-</tr>
-</table>
+**EJADA** &#183; Observability intern, 2026 &#183; Dynatrace, Splunk, application and infrastructure monitoring
 
-## Stack
+**DEPI** &#183; Fortinet cybersecurity training &#183; network security and firewalls
 
-**Security**
+## Tools
 
-<img alt="Network security" src="https://img.shields.io/badge/Network%20security-7A3544?style=flat-square"> <img alt="Firewalls" src="https://img.shields.io/badge/Firewalls-7A3544?style=flat-square"> <img alt="IDS / IPS" src="https://img.shields.io/badge/IDS%20%2F%20IPS-7A3544?style=flat-square"> <img alt="Threat modeling" src="https://img.shields.io/badge/Threat%20modeling-7A3544?style=flat-square"> <img alt="OPA / Rego" src="https://img.shields.io/badge/OPA%20%2F%20Rego-7A3544?style=flat-square">
-
-**Systems**
-
-<img alt="Docker" src="https://img.shields.io/badge/Docker-7A3544?style=flat-square&logo=docker&logoColor=F4EDE4"> <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-7A3544?style=flat-square&logo=fastapi&logoColor=F4EDE4"> <img alt="OpenTelemetry" src="https://img.shields.io/badge/OpenTelemetry-7A3544?style=flat-square&logo=opentelemetry&logoColor=F4EDE4"> <img alt="Dynatrace" src="https://img.shields.io/badge/Dynatrace-7A3544?style=flat-square&logo=dynatrace&logoColor=F4EDE4"> <img alt="Splunk" src="https://img.shields.io/badge/Splunk-7A3544?style=flat-square&logo=splunk&logoColor=F4EDE4"> <img alt="Cloud Run" src="https://img.shields.io/badge/Cloud%20Run-7A3544?style=flat-square&logo=googlecloud&logoColor=F4EDE4">
-
-**AI and automation**
-
-<img alt="Bayesian reasoning" src="https://img.shields.io/badge/Bayesian%20reasoning-7A3544?style=flat-square"> <img alt="Information gain" src="https://img.shields.io/badge/Information%20gain-7A3544?style=flat-square"> <img alt="Gemini" src="https://img.shields.io/badge/Gemini-7A3544?style=flat-square&logo=googlegemini&logoColor=F4EDE4"> <img alt="Automation" src="https://img.shields.io/badge/Automation-7A3544?style=flat-square">
-
-**Development**
-
-<img alt="Python" src="https://img.shields.io/badge/Python-7A3544?style=flat-square&logo=python&logoColor=F4EDE4"> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-7A3544?style=flat-square&logo=typescript&logoColor=F4EDE4"> <img alt="React" src="https://img.shields.io/badge/React-7A3544?style=flat-square&logo=react&logoColor=F4EDE4">
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Python-6B2C3A?style=social&logo=python">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-6B2C3A?style=social&logo=typescript">
+  <img alt="React" src="https://img.shields.io/badge/React-6B2C3A?style=social&logo=react">
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-6B2C3A?style=social&logo=fastapi">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-6B2C3A?style=social&logo=docker">
+  <img alt="OpenTelemetry" src="https://img.shields.io/badge/OpenTelemetry-6B2C3A?style=social&logo=opentelemetry">
+</p>
+<p align="center">
+  <img alt="Dynatrace" src="https://img.shields.io/badge/Dynatrace-6B2C3A?style=social&logo=dynatrace">
+  <img alt="Splunk" src="https://img.shields.io/badge/Splunk-6B2C3A?style=social&logo=splunk">
+  <img alt="Gemini" src="https://img.shields.io/badge/Gemini-6B2C3A?style=social&logo=googlegemini">
+  <img alt="OPA" src="https://img.shields.io/badge/OPA%20%2F%20Rego-6B2C3A?style=social">
+</p>
 
 ## GitHub
 
-<table>
-<tr>
-<td width="58%" valign="top">
-<img alt="GitHub stats for nourseen6" src="https://github-readme-stats.vercel.app/api?username=nourseen6&show_icons=true&hide_rank=true&hide_border=true&bg_color=F6EFE6&title_color=3E1820&text_color=6E534C&icon_color=7A3544">
-</td>
-<td width="42%" valign="top">
-<img alt="Most used languages on GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nourseen6&layout=compact&hide_border=true&bg_color=F6EFE6&title_color=3E1820&text_color=6E534C">
-</td>
-</tr>
-</table>
-
-<p align="center">Curious about what happens when security, infrastructure, and intelligent systems meet.</p>
-
-## Connect
+<p align="center">
+  <img alt="GitHub stats for nourseen6" src="https://github-readme-stats.vercel.app/api?username=nourseen6&show_icons=true&hide_rank=true&hide_border=true&bg_color=F4EBE3&title_color=3C241C&text_color=6B4E46&icon_color=6B2C3A">
+  <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nourseen6&layout=compact&hide_border=true&bg_color=F4EBE3&title_color=3C241C&text_color=6B4E46">
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nourseen-tarek-1a9718399">LinkedIn</a>
