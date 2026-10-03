@@ -1,8 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="300" viewBox="0 0 960 300" fill="none" role="img" aria-label="Nourseen Tarek. Security Engineering and DevSecOps.">
-  <rect width="960" height="300" fill="#5A0F1B"/>
-  <text x="48" y="108" fill="#F4EDE4" font-family="Georgia, 'Times New Roman', serif" font-size="52" letter-spacing="1.5">NOURSEEN TAREK</text>
-  <text x="48" y="156" fill="#F4EDE4" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20">Security Engineering &#183; DevSecOps</text>
-  <rect x="48" y="184" width="220" height="1.5" fill="#E7D7C3"/>
-  <text x="48" y="222" fill="#E7D7C3" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18">Building secure and intelligent systems across</text>
-  <text x="48" y="248" fill="#E7D7C3" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18">security, infrastructure, cloud and AI.</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="320" viewBox="0 0 960 320" fill="none" role="img" aria-label="Nourseen Tarek. CS senior. Security Engineering and DevSecOps.">
+  <rect width="960" height="320" fill="#0C0A0B"/>
+  <rect width="7" height="320" fill="#5A0F1B"/>
+  <text x="52" y="78" fill="#C8A96B" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="3.4">CS SENIOR &#183; ALRYADA UNIVERSITY</text>
+  <text x="52" y="148" fill="#F4EDE4" font-family="Georgia, 'Times New Roman', serif" font-size="54">Nourseen Tarek</text>
+  <text x="52" y="192" fill="#F4EDE4" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" letter-spacing="2.2">SECURITY ENGINEERING &#183; DEVSECOPS</text>
+  <rect x="52" y="216" width="64" height="2" fill="#5A0F1B"/>
+  <rect x="122" y="216" width="18" height="2" fill="#C8A96B"/>
+  <text x="52" y="258" fill="#CDBFB2" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18">Building secure and intelligent systems</text>
+  <text x="52" y="286" fill="#CDBFB2" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18">across security, infrastructure, and AI.</text>
 </svg>
