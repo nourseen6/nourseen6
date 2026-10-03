@@ -1,85 +1,82 @@
-<img src="assets/masthead.svg" width="100%" alt="Nourseen Tarek. Security belongs inside the system. Security engineering, toward DevSecOps, across cloud, AI, and observability.">
+<img src="assets/hero.svg" width="100%" alt="Nourseen Tarek. Security engineering, AI security, and DevSecOps. Building secure and intelligent systems.">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nourseen-tarek-1a9718399">LinkedIn</a>
-  &nbsp;&#183;&nbsp;
-  <a href="https://github.com/nourseen6">GitHub</a>
-  &nbsp;&#183;&nbsp;
-  <a href="mailto:nourkhfaga@gmail.com">Email</a>
-</p>
+I build systems that can be investigated, constrained, and trusted, across security, infrastructure, and AI.
 
-## Work
+## Currently building
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<strong><a href="https://github.com/nourseen6/sentrix-core">SentriX Core</a></strong><br>
-Graduation project &#183; in progress<br><br>
-A personal-safety wearable. On-device detection, then an alert over BLE to the phone, or over cellular when the phone is away. Security architecture is in this repository. Hardware is still prototyping.
-</td>
-<td width="50%" valign="top">
-<strong><a href="https://github.com/nourseen6/incident-commander">Incident Commander</a></strong><br>
-With Shahesta Salama &#183; 1st place, student track, ITIDA DevOps Day 2026<br><br>
-Competing explanations of an incident. Belief updates as evidence arrives, and the next check is chosen by expected information gain. Actions stay reversible and policy-gated.
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<strong><a href="https://github.com/nourseen6/goldenrod">Goldenrod</a></strong><br>
-Agentic Cinema hackathon<br><br>
-Checks a script revision against facts and production decisions already logged.<br>
-Python &#183; Gemini &#183; ClickHouse &#183; Cloud Run
-</td>
-<td width="50%" valign="top">
-<strong>Intrusion detection pipeline</strong><br>
-Python<br><br>
-Ingestion, cleaning, and feature engineering on network traffic, then supervised classification of benign and malicious flows.
-</td>
-</tr>
-</table>
+<a href="https://github.com/nourseen6/incident-commander">
+<img src="assets/ic.svg" width="100%" alt="Incident Commander. Evidence-driven incident investigation. Hackathon, prize-winning.">
+</a>
 
-**[Fortinet device management](https://github.com/nourseen6/Fortinet-Device-Management-with-FortiManager)** &#183; FortiGate through FortiManager: policies, configuration, and troubleshooting.
+With Shahesta Salama. 1st place, student track, ITIDA DevOps Day 2026. When more than one explanation fits, the system keeps competing hypotheses, updates belief as evidence arrives, and chooses the next check by expected information gain. Actions stay reversible, and a policy outside the agent decides what may run.
 
-## Focus
+Python · FastAPI · TypeScript · React · Docker · OpenTelemetry · OPA / Rego
+
+<a href="https://github.com/nourseen6/sentrix-core">
+<img src="assets/sentrix.svg" width="100%" alt="SentriX Core. Secure edge-AI personal safety system. Graduation project, in progress.">
+</a>
+
+A personal-safety path still being built: on-device detection, BLE or cellular, a mobile app, cloud, and security across that path. This repository holds the design and the security work.
+
+## Selected work
+
+**[Goldenrod](https://github.com/nourseen6/goldenrod)** · Agentic Cinema hackathon  
+A call sheet checked against facts and production decisions already logged.  
+Python · Gemini · ClickHouse · Cloud Run
+
+**[Fortinet device management](https://github.com/nourseen6/Fortinet-Device-Management-with-FortiManager)**  
+FortiGate through FortiManager: configuration, security policies, and troubleshooting.
+
+## How I work
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<strong>Security and networks</strong><br>
-FortiGate &#183; FortiManager &#183; IPS &#183; VLANs &#183; NAT &#183; site-to-site VPN &#183; ACLs
+<strong>Security</strong><br>
+How a system is constrained, verified, and protected.
 </td>
 <td width="50%" valign="top">
-<strong>Observability and systems</strong><br>
-Dynatrace &#183; Splunk &#183; log analytics &#183; distributed tracing &#183; alerting &#183; containers
+<strong>Systems</strong><br>
+How services, infrastructure, and telemetry behave.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<strong>Investigation</strong><br>
+How evidence reduces uncertainty before the next action.
+</td>
+<td width="50%" valign="top">
+<strong>AI</strong><br>
+How an intelligent step stays measurable and controlled.
 </td>
 </tr>
 </table>
 
-## Tools
+## Technical areas
 
-<img src="assets/tools.svg" width="100%" alt="Tools in burgundy and beige: Python, TypeScript, FastAPI, React, Docker, Java, Dynatrace, Splunk, FortiGate, OpenTelemetry, Gemini, SQL.">
+**Security** · network security, firewalls, IDS / IPS, threat modeling, OPA / Rego, security requirements
+
+**Systems and infrastructure** · Docker, FastAPI, OpenTelemetry, Dynatrace, Splunk, Cloud Run
+
+**AI and automation** · Bayesian reasoning, information gain, Gemini, investigation workflows, AI security
+
+**Development** · Python, TypeScript, JavaScript, React, C++
 
 ## Experience
 
-**EJADA** &#183; Observability intern &#183; July 2026, one month  
-Splunk and Dynatrace for application and infrastructure monitoring, log analytics, and distributed tracing.
+**EJADA** · Summer internship · 2026  
+Observability · Dynatrace · Splunk
 
-**DEPI / NTI** &#183; Fortinet track &#183; Dec 2024 – Jun 2025  
-FortiGate labs: policies, IPS, VLAN segmentation, NAT, and site-to-site VPN, plus the CCNA curriculum. FortiManager for device configuration and policy deployment.
+**DEPI** · Fortinet cybersecurity training  
+Network security and firewall fundamentals
 
-<p align="center">B.Sc. Computer Science &#183; Alryada University &#183; expected June 2027</p>
+**Alryada University**  
+B.Sc. Computer Science · Senior
 
-## GitHub
+## Contact
 
-<p align="center">
-  <img alt="GitHub stats for nourseen6" src="https://github-readme-stats.vercel.app/api?username=nourseen6&show_icons=true&hide_rank=true&hide_border=true&bg_color=F4EBE3&title_color=6B2C3A&text_color=3C1820&icon_color=6B2C3A">
-  <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nourseen6&layout=compact&hide_border=true&bg_color=F4EBE3&title_color=6B2C3A&text_color=3C1820">
-</p>
+[LinkedIn](https://www.linkedin.com/in/nourseen-tarek-1a9718399) · [GitHub](https://github.com/nourseen6) · [nourkhfaga@gmail.com](mailto:nourkhfaga@gmail.com)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nourseen-tarek-1a9718399">LinkedIn</a>
-  &nbsp;&#183;&nbsp;
-  <a href="https://github.com/nourseen6">GitHub</a>
-  &nbsp;&#183;&nbsp;
-  <a href="mailto:nourkhfaga@gmail.com">nourkhfaga@gmail.com</a>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=nourseen6&show_icons=true&hide_rank=true&hide_border=true&bg_color=10090B&title_color=F3EEE8&text_color=C8C0BA&icon_color=C9A96E" alt="GitHub activity for nourseen6" width="420">
+
+<img src="assets/footer.svg" width="100%" alt="">

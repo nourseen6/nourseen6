@@ -1,9 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="250" viewBox="0 0 960 250" fill="none" role="img" aria-label="Nourseen Tarek. Security engineering, toward DevSecOps.">
-  <rect width="960" height="250" fill="#F4EBE3"/>
-  <circle cx="128" cy="125" r="86" fill="none" stroke="#6B2C3A" stroke-width="1.6"/>
-  <circle cx="128" cy="125" r="74" fill="none" stroke="#C4A46A" stroke-width="1"/>
-  <text x="128" y="136" text-anchor="middle" fill="#6B2C3A" font-family="Georgia, 'Times New Roman', serif" font-size="36">NT</text>
-  <text x="248" y="118" fill="#3C241C" font-family="Georgia, 'Times New Roman', serif" font-size="48">Nourseen Tarek</text>
-  <rect x="250" y="142" width="46" height="2" fill="#C4A46A"/>
-  <text x="248" y="176" fill="#6B2C3A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" letter-spacing="1.4">Security engineering, toward DevSecOps</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="228" viewBox="0 0 960 228" fill="none" role="img" aria-label="Nourseen Tarek. Security engineering, AI security, and DevSecOps. Building secure and intelligent systems.">
+  <rect width="960" height="228" fill="#0B090A"/>
+  <rect width="960" height="228" fill="url(#wash)"/>
+  <rect width="960" height="3" fill="#641522"/>
+  <rect y="225" width="72" height="3" fill="#7A1E2D"/>
+  <rect x="72" y="225" width="28" height="3" fill="#C9A96E"/>
+  <text x="48" y="78" fill="#C9A96E" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="2.6">Security engineering &#183; AI security &#183; DevSecOps</text>
+  <text x="48" y="142" fill="#F3EEE8" font-family="Georgia, 'Times New Roman', serif" font-size="58">Nourseen Tarek</text>
+  <text x="48" y="184" fill="#C8C0BA" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18">Building secure and intelligent systems.</text>
+  <defs>
+    <linearGradient id="wash" x1="0" y1="0" x2="960" y2="228" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3B0A12" stop-opacity="0.55"/>
+      <stop offset="0.55" stop-color="#3B0A12" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
 </svg>
