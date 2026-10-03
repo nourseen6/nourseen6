@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="128" viewBox="0 0 960 128" fill="none" role="img" aria-label="Nourseen Tarek. Security belongs inside the system. Direction: DevSecOps.">
+  <rect width="600" height="128" fill="#F4EBE3"/>
+  <rect x="600" width="360" height="128" fill="#6B2C3A"/>
+  <rect x="600" width="3" height="128" fill="#C4A46A"/>
+  <text x="36" y="58" fill="#3C1820" font-family="Georgia, 'Times New Roman', serif" font-size="36">Nourseen Tarek</text>
+  <text x="36" y="92" fill="#6B2C3A" font-family="Georgia, 'Times New Roman', serif" font-size="16" font-style="italic">Security belongs inside the system.</text>
+  <text x="632" y="50" fill="#E7D3A1" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2.2">SECURITY ENGINEERING</text>
+  <text x="632" y="82" fill="#F4EBE3" font-family="Georgia, 'Times New Roman', serif" font-size="26">DevSecOps</text>
+  <text x="632" y="106" fill="#F3E0D4" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">Cloud &#183; AI &#183; Observability</text>
+</svg>

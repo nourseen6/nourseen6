@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="140" viewBox="0 0 960 140" fill="none" role="img" aria-label="Python, TypeScript, FastAPI, React, Docker, Java, Dynatrace, Splunk, FortiGate, OpenTelemetry, Gemini, SQL.">
+  <rect width="960" height="140" fill="#F4EBE3"/>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600">
+    <rect x="16" y="16" width="148" height="50" fill="#6B2C3A"/>
+    <text x="90" y="46" text-anchor="middle" fill="#F4EBE3">Python</text>
+    <rect x="172" y="16" width="148" height="50" fill="#E7D9CC"/>
+    <text x="246" y="46" text-anchor="middle" fill="#6B2C3A">TypeScript</text>
+    <rect x="328" y="16" width="148" height="50" fill="#6B2C3A"/>
+    <text x="402" y="46" text-anchor="middle" fill="#F4EBE3">FastAPI</text>
+    <rect x="484" y="16" width="148" height="50" fill="#E7D9CC"/>
+    <text x="558" y="46" text-anchor="middle" fill="#6B2C3A">React</text>
+    <rect x="640" y="16" width="148" height="50" fill="#6B2C3A"/>
+    <text x="714" y="46" text-anchor="middle" fill="#F4EBE3">Docker</text>
+    <rect x="796" y="16" width="148" height="50" fill="#E7D9CC"/>
+    <text x="870" y="46" text-anchor="middle" fill="#6B2C3A">Java</text>
+    <rect x="16" y="74" width="148" height="50" fill="#E7D9CC"/>
+    <text x="90" y="104" text-anchor="middle" fill="#6B2C3A">Dynatrace</text>
+    <rect x="172" y="74" width="148" height="50" fill="#6B2C3A"/>
+    <text x="246" y="104" text-anchor="middle" fill="#F4EBE3">Splunk</text>
+    <rect x="328" y="74" width="148" height="50" fill="#E7D9CC"/>
+    <text x="402" y="104" text-anchor="middle" fill="#6B2C3A">FortiGate</text>
+    <rect x="484" y="74" width="148" height="50" fill="#6B2C3A"/>
+    <text x="558" y="104" text-anchor="middle" fill="#F4EBE3">OpenTelemetry</text>
+    <rect x="640" y="74" width="148" height="50" fill="#E7D9CC"/>
+    <text x="714" y="104" text-anchor="middle" fill="#6B2C3A">Gemini</text>
+    <rect x="796" y="74" width="148" height="50" fill="#6B2C3A"/>
+    <text x="870" y="104" text-anchor="middle" fill="#F4EBE3">SQL</text>
+  </g>
+</svg>
