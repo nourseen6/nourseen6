@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="300" viewBox="0 0 960 300" fill="none" role="img" aria-label="Core: Security engineering, DevSecOps, and cloud and AI security. Supporting: automation, observability, and systems engineering.">
+  <rect width="960" height="300" fill="#F4EDE4"/>
+  <rect width="960" height="3" fill="#5A0F1B"/>
+  <text x="48" y="58" fill="#5A0F1B" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="3">CORE</text>
+  <text x="48" y="100" fill="#3B0A10" font-family="Georgia, 'Times New Roman', serif" font-size="26">Security Engineering</text>
+  <text x="48" y="136" fill="#3B0A10" font-family="Georgia, 'Times New Roman', serif" font-size="26">DevSecOps</text>
+  <text x="48" y="172" fill="#3B0A10" font-family="Georgia, 'Times New Roman', serif" font-size="26">Cloud &amp; AI Security</text>
+  <text x="48" y="220" fill="#5A0F1B" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="3">SUPPORTING</text>
+  <text x="48" y="258" fill="#6E3B42" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18">Automation &#183; Observability &#183; Systems Engineering</text>
+</svg>
