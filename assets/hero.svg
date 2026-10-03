@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="292" viewBox="0 0 960 292" fill="none" role="img" aria-label="Nourseen Tarek. Security Engineering and DevSecOps.">
+  <rect width="960" height="292" fill="#0D0D0F"/>
+  <rect width="6" height="292" fill="#5A0F1B"/>
+  <rect x="6" width="2" height="292" fill="#3A0A12"/>
+  <text x="48" y="78" fill="#C8A96B" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="3.2">SECURITY ENGINEERING &#183; DEVSECOPS</text>
+  <text x="48" y="156" fill="#F3EFE8" font-family="Georgia, 'Times New Roman', serif" font-size="58">Nourseen Tarek</text>
+  <text x="48" y="206" fill="#A7A3A0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20">Building secure and intelligent systems</text>
+  <text x="48" y="234" fill="#A7A3A0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20">across security, infrastructure, and AI.</text>
+  <rect x="48" y="262" width="56" height="2" fill="#5A0F1B"/>
+  <rect x="112" y="262" width="20" height="2" fill="#C8A96B"/>
+</svg>

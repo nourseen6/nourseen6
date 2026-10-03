@@ -1,65 +1,111 @@
-# Nourseen Tarek
+<img src="assets/hero.svg" width="100%" alt="Nourseen Tarek. Security Engineering and DevSecOps. Building secure and intelligent systems across security, infrastructure, and AI.">
 
-CS Senior · Security Engineering
+<p align="center">
+  <a href="https://www.linkedin.com/in/nourseen-tarek-1a9718399">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="#projects">Projects</a>
+  &nbsp;·&nbsp;
+  <a href="#contact">Contact</a>
+</p>
 
-<img src="mark.svg" width="96" height="10" alt="">
+## 02 — What I'm building toward
 
-Senior computer science student at Alryada University, graduating this year. Security engineering is the center of the work. DevSecOps is the direction I am developing toward: systems that can be investigated, constrained, and audited.
+<img src="assets/direction.svg" width="100%" alt="Security engineering is the core. DevSecOps is the direction. Cloud, AI, automation, and observability are supporting areas.">
 
-## Currently building
+Security engineering is the center of the work. DevSecOps is the direction I am building toward. Cloud, AI, automation, and observability are the areas I work across on the way there.
 
-[SentriX Core](https://github.com/nourseen6/sentrix-core) — a secure edge-AI personal safety system, in progress.
+<a id="projects"></a>
 
-[Incident Commander](https://github.com/nourseen6/incident-commander) — evidence-driven incident investigation, with Shahesta Salama.
+## 03 — Currently building
 
-## Focus
+<table>
+<tr>
+<td width="50%" valign="top">
+<img src="assets/rule.svg" width="76" alt=""><br><br>
+<strong>SentriX Core</strong><br>
+Secure edge-AI personal safety system<br><br>
+Graduation project · In progress<br><br>
+A personal-safety path: on-device detection, BLE or cellular connectivity, a mobile app, cloud, and security across that path. This repository is the design and the security plan. The system is still being built.<br><br>
+Edge AI · Security architecture · Connectivity · Mobile · Cloud<br><br>
+<a href="https://github.com/nourseen6/sentrix-core">Repository</a>
+</td>
+<td width="50%" valign="top">
+<img src="assets/rule.svg" width="76" alt=""><br><br>
+<strong>Incident Commander</strong><br>
+Evidence-driven incident investigation<br><br>
+With Shahesta Salama · Hackathon · Prize<br><br>
+When more than one explanation fits, the system keeps competing hypotheses, updates belief as evidence arrives, and chooses the next check by expected information gain. Each action is gated by an Open Policy Agent policy outside the agent.<br><br>
+Python · FastAPI · TypeScript · React · Docker · OpenTelemetry · OPA / Rego<br><br>
+<a href="https://github.com/nourseen6/incident-commander">Repository</a>
+</td>
+</tr>
+</table>
 
-Security Engineering
+## 04 — Selected work
 
-DevSecOps
+<img src="assets/rule.svg" width="76" alt="">
 
-## Exploring
+**[Goldenrod](https://github.com/nourseen6/goldenrod)** · Agentic Cinema hackathon
 
-AI security · Cloud security · Security automation · Observability · Secure end-to-end systems
-
-## Selected projects
-
-### [Incident Commander](https://github.com/nourseen6/incident-commander)
-
-Built with Shahesta Salama.
-
-The system starts from competing explanations of an incident. It updates belief as evidence arrives and chooses the next check by expected information gain. Each state-changing action is sent to an Open Policy Agent engine outside the agent. Recovery is judged from telemetry collected after the action, and the decision chain is sealed and signed.
-
-Python · FastAPI · TypeScript · React · Docker · OpenTelemetry · OPA / Rego
-
-### [SentriX Core](https://github.com/nourseen6/sentrix-core)
-
-Graduation project, in progress.
-
-A personal safety system designed as one path: wearable sensing, on-device detection, BLE or cellular connectivity, a mobile app, cloud, and security across that path. This repository holds the system design and the security plan. The application, models, firmware, and hardware are still being built, and they are not fully represented in the repository yet.
-
-## Also built
-
-### [Goldenrod](https://github.com/nourseen6/goldenrod)
-
-A check that runs when a film call sheet is issued. It compares the current script revision with the film's established facts and the production's logged decisions, then ranks what those changes already broke by what has been paid for.
-
-Built for the Agentic Cinema hackathon, ClickHouse track.
+A check that runs when a film call sheet is issued. It compares the new script revision with facts already established and decisions already logged, then ranks what those changes broke by what has been paid for.
 
 Python · Gemini · ClickHouse · Cloud Run
 
-## Technical areas
+**[Fortinet device management](https://github.com/nourseen6/Fortinet-Device-Management-with-FortiManager)**
 
-**Security** — Open Policy Agent, Rego, signed evidence chains, threat modeling, and security requirements
+Managing FortiGate devices through FortiManager: configuration, security policies, and troubleshooting.
 
-**Systems and operations** — FastAPI, Docker, OpenTelemetry, ClickHouse, Cloud Run
+FortiGate · FortiManager
 
-**Investigation and AI** — Bayesian belief updates and information-gain probe selection. Incident Commander's investigation loop is deterministic. Goldenrod uses Gemini to extract structured facts from a screenplay.
+## 05 — How I work
 
-**Development** — Python, TypeScript, React
+I want to see the whole system: how it runs, how it fails, and what evidence it leaves. Security belongs inside that path.
 
-## Connect
+| Security | Systems and infrastructure | AI and automation |
+|---|---|---|
+| Policy, threat modeling, and the requirements a system has to meet. | Services, telemetry, and how applications and infrastructure behave. | Investigation logic and checks that run as part of the workflow. |
 
-[LinkedIn](https://www.linkedin.com/in/nourseen-tarek-1a9718399)
+## 06 — Technical areas
 
-[nourkhfaga@gmail.com](mailto:nourkhfaga@gmail.com)
+<table>
+<tr>
+<td width="28%" valign="top"><strong>Security</strong></td>
+<td valign="top">Network security · Firewalls · IDS / IPS · Threat modeling · OPA / Rego · Security requirements</td>
+</tr>
+<tr>
+<td valign="top"><strong>Systems and operations</strong></td>
+<td valign="top">Docker · FastAPI · OpenTelemetry · Dynatrace · Splunk · Cloud Run</td>
+</tr>
+<tr>
+<td valign="top"><strong>AI and automation</strong></td>
+<td valign="top">Bayesian reasoning · Information gain · Gemini · Workflow checks</td>
+</tr>
+<tr>
+<td valign="top"><strong>Development</strong></td>
+<td valign="top">Python · TypeScript · React</td>
+</tr>
+</table>
+
+## 07 — Experience
+
+**EJADA** · Summer internship, 2026
+
+Observability. Dynatrace, Splunk, and monitoring of applications and infrastructure.
+
+**DEPI** · Fortinet cybersecurity training
+
+Network security and firewall fundamentals.
+
+## 08 — Education
+
+**Alryada University**
+
+B.Sc. Computer Science
+
+Senior · graduating this year
+
+<a id="contact"></a>
+
+## 09 — Connect
+
+[LinkedIn](https://www.linkedin.com/in/nourseen-tarek-1a9718399) · [GitHub](https://github.com/nourseen6) · [nourkhfaga@gmail.com](mailto:nourkhfaga@gmail.com)
