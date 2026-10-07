@@ -1,82 +1,73 @@
-<img src="assets/hero.svg" width="100%" alt="Nourseen Tarek. Security engineering, AI security, and DevSecOps. Building secure and intelligent systems.">
+<img src="assets/hero.svg" width="100%" alt="Nourseen Tarek. Security engineering. I secure systems, then I ask them what happened.">
 
-I build systems that can be investigated, constrained, and trusted, across security, infrastructure, and AI.
+<p align="center">
+Computer science senior at Alryada University, in Cairo.<br>
+Security, observability, and small intelligent systems that still leave a trail.
+</p>
 
-## Currently building
+<p align="center">
+  <a href="https://www.linkedin.com/in/nourseen-tarek-1a9718399">LinkedIn</a>
+  &nbsp;&#183;&nbsp;
+  <a href="https://github.com/nourseen6">GitHub</a>
+  &nbsp;&#183;&nbsp;
+  <a href="mailto:nourkhfaga@gmail.com">Email</a>
+</p>
 
-<a href="https://github.com/nourseen6/incident-commander">
-<img src="assets/ic.svg" width="100%" alt="Incident Commander. Evidence-driven incident investigation. Hackathon, prize-winning.">
-</a>
-
-With Shahesta Salama. 1st place, student track, ITIDA DevOps Day 2026. When more than one explanation fits, the system keeps competing hypotheses, updates belief as evidence arrives, and chooses the next check by expected information gain. Actions stay reversible, and a policy outside the agent decides what may run.
-
-Python · FastAPI · TypeScript · React · Docker · OpenTelemetry · OPA / Rego
-
-<a href="https://github.com/nourseen6/sentrix-core">
-<img src="assets/sentrix.svg" width="100%" alt="SentriX Core. Secure edge-AI personal safety system. Graduation project, in progress.">
-</a>
-
-A personal-safety path still being built: on-device detection, BLE or cellular, a mobile app, cloud, and security across that path. This repository holds the design and the security work.
-
-## Selected work
-
-**[Goldenrod](https://github.com/nourseen6/goldenrod)** · Agentic Cinema hackathon  
-A call sheet checked against facts and production decisions already logged.  
-Python · Gemini · ClickHouse · Cloud Run
-
-**[Fortinet device management](https://github.com/nourseen6/Fortinet-Device-Management-with-FortiManager)**  
-FortiGate through FortiManager: configuration, security policies, and troubleshooting.
-
-## How I work
+## now
 
 <table>
 <tr>
-<td width="50%" valign="top">
-<strong>Security</strong><br>
-How a system is constrained, verified, and protected.
-</td>
-<td width="50%" valign="top">
-<strong>Systems</strong><br>
-How services, infrastructure, and telemetry behave.
-</td>
+<td width="34%" valign="top"><a href="https://github.com/nourseen6/incident-commander"><strong>Incident Commander</strong></a></td>
+<td valign="top">With Shahesta Salama. 1st place, student track, ITIDA DevOps Day 2026. Competing explanations of an incident, updated as evidence arrives. The next check is chosen by information gain, and a policy outside the agent decides what may run.<br>Python &#183; FastAPI &#183; TypeScript &#183; React &#183; Docker &#183; OpenTelemetry &#183; OPA</td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-<strong>Investigation</strong><br>
-How evidence reduces uncertainty before the next action.
-</td>
-<td width="50%" valign="top">
-<strong>AI</strong><br>
-How an intelligent step stays measurable and controlled.
-</td>
+<td valign="top"><a href="https://github.com/nourseen6/sentrix-core"><strong>SentriX Core</strong></a></td>
+<td valign="top">Graduation project, still being built. A personal-safety path: on-device detection, BLE or cellular, a phone, a cloud, and security across that path. This repository is the design and the security work.</td>
+</tr>
+<tr>
+<td valign="top"><a href="https://github.com/nourseen6/goldenrod"><strong>Goldenrod</strong></a></td>
+<td valign="top">Agentic Cinema hackathon. A call sheet checked against facts and production decisions already logged.<br>Python &#183; Gemini &#183; ClickHouse &#183; Cloud Run</td>
+</tr>
+<tr>
+<td valign="top"><a href="https://github.com/nourseen6/Fortinet-Device-Management-with-FortiManager"><strong>Fortinet device management</strong></a></td>
+<td valign="top">FortiGate through FortiManager. Configuration, security policies, and troubleshooting.</td>
 </tr>
 </table>
 
-## Technical areas
+## kit
 
-**Security** · network security, firewalls, IDS / IPS, threat modeling, OPA / Rego, security requirements
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-C4536A?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/TypeScript-C4536A?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-C4536A?style=flat&logo=react&logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/FastAPI-C4536A?style=flat&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Docker-C4536A?style=flat&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Splunk-C4536A?style=flat&logo=splunk&logoColor=white" alt="Splunk">
+  <img src="https://img.shields.io/badge/Dynatrace-C4536A?style=flat" alt="Dynatrace">
+</p>
 
-**Systems and infrastructure** · Docker, FastAPI, OpenTelemetry, Dynatrace, Splunk, Cloud Run
+Networks and firewalls. FortiGate, FortiManager, IPS, VLANs, NAT, site-to-site VPN.
 
-**AI and automation** · Bayesian reasoning, information gain, Gemini, investigation workflows, AI security
+Watching systems. Splunk, Dynatrace, traces, logs, and alerts.
 
-**Development** · Python, TypeScript, JavaScript, React, C++
+Also in the work. OpenTelemetry, OPA, Gemini, SQL, Java, C++, JavaScript.
 
-## Experience
+## field notes
 
-**EJADA** · Summer internship · 2026  
-Observability · Dynatrace · Splunk
+**EJADA** · July 2026, one month  
+Splunk and Dynatrace. Logs, distributed traces, alerting, and container monitoring.
 
-**DEPI** · Fortinet cybersecurity training  
-Network security and firewall fundamentals
+**DEPI / NTI** · Dec 2024 – Jun 2025  
+Fortinet track, plus the CCNA curriculum. FortiGate policies, IPS, and FortiManager.
 
 **Alryada University**  
-B.Sc. Computer Science · Senior
+B.Sc. Computer Science · expected June 2027
 
-## Contact
+<p align="center">Arabic &#183; English &#183; a little Italian</p>
 
-[LinkedIn](https://www.linkedin.com/in/nourseen-tarek-1a9718399) · [GitHub](https://github.com/nourseen6) · [nourkhfaga@gmail.com](mailto:nourkhfaga@gmail.com)
-
-<img src="https://github-readme-stats.vercel.app/api?username=nourseen6&show_icons=true&hide_rank=true&hide_border=true&bg_color=10090B&title_color=F3EEE8&text_color=C8C0BA&icon_color=C9A96E" alt="GitHub activity for nourseen6" width="420">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nourseen6&show_icons=true&hide_rank=true&hide_border=true&bg_color=FFF5F6&title_color=8E3D4F&text_color=5C3A45&icon_color=C4536A" alt="GitHub activity for nourseen6" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nourseen6&layout=compact&hide_border=true&bg_color=FFF5F6&title_color=8E3D4F&text_color=5C3A45" alt="Most used languages for nourseen6" height="165">
+</p>
 
 <img src="assets/footer.svg" width="100%" alt="">

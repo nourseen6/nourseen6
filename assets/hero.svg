@@ -1,16 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="228" viewBox="0 0 960 228" fill="none" role="img" aria-label="Nourseen Tarek. Security engineering, AI security, and DevSecOps. Building secure and intelligent systems.">
-  <rect width="960" height="228" fill="#0B090A"/>
-  <rect width="960" height="228" fill="url(#wash)"/>
-  <rect width="960" height="3" fill="#641522"/>
-  <rect y="225" width="72" height="3" fill="#7A1E2D"/>
-  <rect x="72" y="225" width="28" height="3" fill="#C9A96E"/>
-  <text x="48" y="78" fill="#C9A96E" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="2.6">Security engineering &#183; AI security &#183; DevSecOps</text>
-  <text x="48" y="142" fill="#F3EEE8" font-family="Georgia, 'Times New Roman', serif" font-size="58">Nourseen Tarek</text>
-  <text x="48" y="184" fill="#C8C0BA" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18">Building secure and intelligent systems.</text>
-  <defs>
-    <linearGradient id="wash" x1="0" y1="0" x2="960" y2="228" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#3B0A12" stop-opacity="0.55"/>
-      <stop offset="0.55" stop-color="#3B0A12" stop-opacity="0"/>
-    </linearGradient>
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="268" viewBox="0 0 960 268" fill="none" role="img" aria-label="Nourseen Tarek. Security engineering. I secure systems, then I ask them what happened.">
+  <rect width="960" height="268" rx="28" fill="#FFF5F6"/>
+  <rect x="1" y="1" width="958" height="266" rx="27" stroke="#F3C9D1" stroke-width="2"/>
+  <circle cx="480" cy="52" r="7" fill="#C4536A"/>
+  <circle cx="480" cy="34" r="7" fill="#E7A3B0"/>
+  <circle cx="498" cy="52" r="7" fill="#E7A3B0"/>
+  <circle cx="480" cy="70" r="7" fill="#E7A3B0"/>
+  <circle cx="462" cy="52" r="7" fill="#E7A3B0"/>
+  <text x="480" y="128" text-anchor="middle" fill="#C4536A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="3">security engineering</text>
+  <text x="480" y="186" text-anchor="middle" fill="#5C2A38" font-family="Georgia, 'Times New Roman', serif" font-size="58">Nourseen Tarek</text>
+  <text x="480" y="224" text-anchor="middle" fill="#8A5966" font-family="Georgia, 'Times New Roman', serif" font-size="18" font-style="italic">I secure systems, then I ask them what happened.</text>
 </svg>
