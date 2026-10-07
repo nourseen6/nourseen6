@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="228" viewBox="0 0 960 228" fill="none" role="img" aria-label="Working on an incident investigation system. 1st place, student track, ITIDA DevOps Day 2026.">
+  <rect width="960" height="228" rx="18" fill="#FFF7F8"/>
+  <rect x="1" y="1" width="958" height="226" rx="17" stroke="#E7D5DA" stroke-width="1.5"/>
+  <rect x="0" y="28" width="6" height="172" fill="#C4536A"/>
+  <text x="36" y="42" fill="#C4536A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="1.4">Working on</text>
+  <text x="36" y="80" fill="#3D2430" font-family="Georgia, 'Times New Roman', serif" font-size="28">An incident investigation system</text>
+  <text x="36" y="118" fill="#5C3A45" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16">When more than one cause is possible, it keeps each one and updates it as evidence arrives.</text>
+  <text x="36" y="144" fill="#5C3A45" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16">The next check is the one that would remove the most uncertainty.</text>
+  <text x="36" y="182" fill="#3D2430" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14">Reversible actions &#183; policy outside the system &#183; signed evidence</text>
+  <text x="36" y="206" fill="#8E3D4F" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">1st place, student track, ITIDA DevOps Day 2026 &#183; talks and hackathons</text>
+</svg>
