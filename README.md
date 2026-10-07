@@ -7,55 +7,54 @@
 ## Skills
 
 <p align="center">
-  <img src="assets/badges/python.svg?v=3" alt="Python">
-  <img src="assets/badges/cpp.svg?v=3" alt="C++">
-  <img src="assets/badges/java.svg?v=3" alt="Java">
-  <img src="assets/badges/javascript.svg?v=3" alt="JavaScript">
-  <img src="assets/badges/typescript.svg?v=3" alt="TypeScript">
+  <img src="assets/badges/python.svg?v=4" alt="Python">
+  <img src="assets/badges/cpp.svg?v=4" alt="C++">
+  <img src="assets/badges/java.svg?v=4" alt="Java">
+  <img src="assets/badges/javascript.svg?v=4" alt="JavaScript">
+  <img src="assets/badges/typescript.svg?v=4" alt="TypeScript">
 </p>
 <p align="center">
-  <img src="assets/badges/fastapi.svg?v=3" alt="FastAPI">
-  <img src="assets/badges/react.svg?v=3" alt="React">
-  <img src="assets/badges/sql.svg?v=3" alt="SQL">
-  <img src="assets/badges/html5.svg?v=3" alt="HTML5">
-  <img src="assets/badges/css.svg?v=3" alt="CSS">
-  <img src="assets/badges/sklearn.svg?v=3" alt="scikit-learn">
+  <img src="assets/badges/fastapi.svg?v=4" alt="FastAPI">
+  <img src="assets/badges/react.svg?v=4" alt="React">
+  <img src="assets/badges/sql.svg?v=4" alt="SQL">
+  <img src="assets/badges/html5.svg?v=4" alt="HTML5">
+  <img src="assets/badges/css.svg?v=4" alt="CSS">
+  <img src="assets/badges/sklearn.svg?v=4" alt="scikit-learn">
 </p>
 <p align="center">
-  <img src="assets/badges/fortigate.svg?v=3" alt="FortiGate">
-  <img src="assets/badges/fortimanager.svg?v=3" alt="FortiManager">
-  <img src="assets/badges/vpn.svg?v=3" alt="VPN">
-  <img src="assets/badges/ips.svg?v=3" alt="IPS">
-  <img src="assets/badges/dynatrace.svg?v=3" alt="Dynatrace">
-  <img src="assets/badges/splunk.svg?v=3" alt="Splunk">
+  <img src="assets/badges/fortigate.svg?v=4" alt="FortiGate">
+  <img src="assets/badges/fortimanager.svg?v=4" alt="FortiManager">
+  <img src="assets/badges/vpn.svg?v=4" alt="VPN">
+  <img src="assets/badges/ips.svg?v=4" alt="IPS">
+  <img src="assets/badges/dynatrace.svg?v=4" alt="Dynatrace">
+  <img src="assets/badges/splunk.svg?v=4" alt="Splunk">
 </p>
 <p align="center">
-  <img src="assets/badges/tcpip.svg?v=3" alt="TCP/IP">
-  <img src="assets/badges/vlan.svg?v=3" alt="VLAN">
-  <img src="assets/badges/nat.svg?v=3" alt="NAT">
-  <img src="assets/badges/acl.svg?v=3" alt="ACL">
-  <img src="assets/badges/dns.svg?v=3" alt="DNS">
-  <img src="assets/badges/dhcp.svg?v=3" alt="DHCP">
+  <img src="assets/badges/vlan.svg?v=4" alt="VLAN">
+  <img src="assets/badges/nat.svg?v=4" alt="NAT">
+  <img src="assets/badges/acl.svg?v=4" alt="ACL">
+  <img src="assets/badges/dns.svg?v=4" alt="DNS">
+  <img src="assets/badges/dhcp.svg?v=4" alt="DHCP">
 </p>
 <p align="center">
-  <img src="assets/badges/ospf.svg?v=3" alt="OSPF">
-  <img src="assets/badges/rip.svg?v=3" alt="RIP">
-  <img src="assets/badges/subnetting.svg?v=3" alt="Subnetting">
+  <img src="assets/badges/ospf.svg?v=4" alt="OSPF">
+  <img src="assets/badges/rip.svg?v=4" alt="RIP">
+  <img src="assets/badges/subnetting.svg?v=4" alt="Subnetting">
 </p>
 <p align="center">
-  <img src="assets/badges/apm.svg?v=3" alt="APM">
-  <img src="assets/badges/tracing.svg?v=3" alt="Tracing">
-  <img src="assets/badges/alerting.svg?v=3" alt="Alerting">
-  <img src="assets/badges/logs.svg?v=3" alt="Log analytics">
+  <img src="assets/badges/apm.svg?v=4" alt="APM">
+  <img src="assets/badges/tracing.svg?v=4" alt="Tracing">
+  <img src="assets/badges/alerting.svg?v=4" alt="Alerting">
+  <img src="assets/badges/logs.svg?v=4" alt="Log analytics">
 </p>
 <p align="center">
-  <img src="assets/badges/llms.svg?v=3" alt="LLMs">
-  <img src="assets/badges/classification.svg?v=3" alt="Classification">
-  <img src="assets/badges/multiagent.svg?v=3" alt="Multi-agent">
-  <img src="assets/badges/features.svg?v=3" alt="Feature engineering">
+  <img src="assets/badges/llms.svg?v=4" alt="LLMs">
+  <img src="assets/badges/classification.svg?v=4" alt="Classification">
+  <img src="assets/badges/multiagent.svg?v=4" alt="Multi-agent">
+  <img src="assets/badges/features.svg?v=4" alt="Feature engineering">
 </p>
 
-## Long term
+## Still in progress
 
 | Project | |
 | --- | --- |
