@@ -1,12 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="268" viewBox="0 0 960 268" fill="none" role="img" aria-label="Nourseen Tarek. Security engineering. I secure systems, then I ask them what happened.">
-  <rect width="960" height="268" rx="28" fill="#FFF5F6"/>
-  <rect x="1" y="1" width="958" height="266" rx="27" stroke="#F3C9D1" stroke-width="2"/>
-  <circle cx="480" cy="52" r="7" fill="#C4536A"/>
-  <circle cx="480" cy="34" r="7" fill="#E7A3B0"/>
-  <circle cx="498" cy="52" r="7" fill="#E7A3B0"/>
-  <circle cx="480" cy="70" r="7" fill="#E7A3B0"/>
-  <circle cx="462" cy="52" r="7" fill="#E7A3B0"/>
-  <text x="480" y="128" text-anchor="middle" fill="#C4536A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="3">security engineering</text>
-  <text x="480" y="186" text-anchor="middle" fill="#5C2A38" font-family="Georgia, 'Times New Roman', serif" font-size="58">Nourseen Tarek</text>
-  <text x="480" y="224" text-anchor="middle" fill="#8A5966" font-family="Georgia, 'Times New Roman', serif" font-size="18" font-style="italic">I secure systems, then I ask them what happened.</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="196" viewBox="0 0 960 196" fill="none" role="img" aria-label="Nourseen Tarek. CS senior student.">
+  <rect width="960" height="196" rx="18" fill="#FFF7F8"/>
+  <rect x="1" y="1" width="958" height="194" rx="17" stroke="#E7D5DA" stroke-width="1.5"/>
+  <text x="480" y="62" text-anchor="middle" fill="#8E3D4F" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="2.4">CS Senior Student</text>
+  <text x="480" y="128" text-anchor="middle" fill="#3D2430" font-family="Georgia, 'Times New Roman', serif" font-size="56">Nourseen Tarek</text>
+  <rect x="430" y="156" width="100" height="2" fill="#C4536A"/>
 </svg>
