@@ -18,13 +18,41 @@
   <img src="assets/badges/react.svg" alt="React">
   <img src="assets/badges/sql.svg" alt="SQL">
   <img src="assets/badges/html5.svg" alt="HTML5">
+  <img src="assets/badges/css.svg" alt="CSS">
   <img src="assets/badges/sklearn.svg" alt="scikit-learn">
 </p>
 <p align="center">
   <img src="assets/badges/fortigate.svg" alt="FortiGate">
   <img src="assets/badges/fortimanager.svg" alt="FortiManager">
+  <img src="assets/badges/vpn.svg" alt="VPN">
+  <img src="assets/badges/ips.svg" alt="IPS">
   <img src="assets/badges/dynatrace.svg" alt="Dynatrace">
   <img src="assets/badges/splunk.svg" alt="Splunk">
+</p>
+<p align="center">
+  <img src="assets/badges/tcpip.svg" alt="TCP/IP">
+  <img src="assets/badges/vlan.svg" alt="VLAN">
+  <img src="assets/badges/nat.svg" alt="NAT">
+  <img src="assets/badges/acl.svg" alt="ACL">
+  <img src="assets/badges/dns.svg" alt="DNS">
+  <img src="assets/badges/dhcp.svg" alt="DHCP">
+</p>
+<p align="center">
+  <img src="assets/badges/ospf.svg" alt="OSPF">
+  <img src="assets/badges/rip.svg" alt="RIP">
+  <img src="assets/badges/subnetting.svg" alt="Subnetting">
+</p>
+<p align="center">
+  <img src="assets/badges/apm.svg" alt="APM">
+  <img src="assets/badges/tracing.svg" alt="Tracing">
+  <img src="assets/badges/alerting.svg" alt="Alerting">
+  <img src="assets/badges/logs.svg" alt="Log analytics">
+</p>
+<p align="center">
+  <img src="assets/badges/llms.svg" alt="LLMs">
+  <img src="assets/badges/classification.svg" alt="Classification">
+  <img src="assets/badges/multiagent.svg" alt="Multi-agent">
+  <img src="assets/badges/features.svg" alt="Feature engineering">
 </p>
 
 ## Projects
