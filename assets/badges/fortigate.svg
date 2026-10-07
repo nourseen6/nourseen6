@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="59" height="11" viewBox="0 0 59 11" role="img" aria-label="FORTIGATE">
-  <rect width="59" height="11" rx="2" fill="#7A1E2D" fill-opacity="0.72"/>
-  <svg x="2" y="1.5" width="8" height="8" viewBox="0 0 24 24"><path fill="#F3EEE8" d="M0 9.785h6.788v4.454H0zm8.666-6.33h6.668v4.453H8.666zm0 12.637h6.668v4.454H8.666zm8.522-6.307H24v4.454h-6.812zM2.792 3.455C1.372 3.814.265 5.404 0 7.425v.506h6.788V3.454zM0 16.091v.554c.24 1.926 1.276 3.466 2.624 3.9h4.188v-4.454zm24-8.184v-.506c-.265-1.998-1.372-3.587-2.792-3.972h-4.02v4.454H24zM21.376 20.57c1.324-.458 2.36-1.974 2.624-3.9v-.554h-6.812v4.454Z"/></svg>
-  <text x="12" y="8.4" fill="#F3EEE8" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="6.5" font-weight="700" letter-spacing="0.15">FORTIGATE</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="86" height="20" viewBox="0 0 86 20" role="img" aria-label="FORTIGATE">
+  <rect width="86" height="20" rx="4" fill="#7A1E2D" fill-opacity="0.72"/>
+  <svg x="6" y="4" width="12" height="12" viewBox="0 0 24 24"><path fill="#F3EEE8" d="M0 9.785h6.788v4.454H0zm8.666-6.33h6.668v4.453H8.666zm0 12.637h6.668v4.454H8.666zm8.522-6.307H24v4.454h-6.812zM2.792 3.455C1.372 3.814.265 5.404 0 7.425v.506h6.788V3.454zM0 16.091v.554c.24 1.926 1.276 3.466 2.624 3.9h4.188v-4.454zm24-8.184v-.506c-.265-1.998-1.372-3.587-2.792-3.972h-4.02v4.454H24zM21.376 20.57c1.324-.458 2.36-1.974 2.624-3.9v-.554h-6.812v4.454Z"/></svg>
+  <text x="22" y="14" fill="#F3EEE8" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="0.3">FORTIGATE</text>
 </svg>

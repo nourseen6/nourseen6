@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="72" height="11" viewBox="0 0 72 11" role="img" aria-label="CLASSIFICATION">
-  <rect width="72" height="11" rx="2" fill="#7A1E2D" fill-opacity="0.72"/>
-  <text x="36" y="8.2" text-anchor="middle" fill="#F3EEE8" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="6.5" font-weight="700" letter-spacing="0.15">CLASSIFICATION</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="108" height="20" viewBox="0 0 108 20" role="img" aria-label="CLASSIFICATION">
+  <rect width="108" height="20" rx="4" fill="#7A1E2D" fill-opacity="0.72"/>
+  <text x="54" y="14" text-anchor="middle" fill="#F3EEE8" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="0.3">CLASSIFICATION</text>
 </svg>
