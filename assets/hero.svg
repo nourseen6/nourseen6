@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="196" viewBox="0 0 960 196" fill="none" role="img" aria-label="Nourseen Tarek. CS senior student.">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="196" viewBox="0 0 960 196" fill="none" role="img" aria-label="Nourseen Tarek. DevSecOps Engineer.">
   <rect width="960" height="196" rx="18" fill="#FFF7F8"/>
   <rect x="1" y="1" width="958" height="194" rx="17" stroke="#E7D5DA" stroke-width="1.5"/>
-  <text x="480" y="62" text-anchor="middle" fill="#8E3D4F" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="2.4">CS Senior Student</text>
+  <text x="480" y="62" text-anchor="middle" fill="#8E3D4F" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="1.6">DevSecOps Engineer</text>
   <text x="480" y="128" text-anchor="middle" fill="#3D2430" font-family="Georgia, 'Times New Roman', serif" font-size="56">Nourseen Tarek</text>
   <rect x="430" y="156" width="100" height="2" fill="#C4536A"/>
 </svg>
