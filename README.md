@@ -7,52 +7,52 @@
 ## Skills
 
 <p align="center">
-  <img src="assets/badges/python.svg" alt="Python">
-  <img src="assets/badges/cpp.svg" alt="C++">
-  <img src="assets/badges/java.svg" alt="Java">
-  <img src="assets/badges/javascript.svg" alt="JavaScript">
-  <img src="assets/badges/typescript.svg" alt="TypeScript">
+  <img src="assets/badges/python.svg?v=2" alt="Python">
+  <img src="assets/badges/cpp.svg?v=2" alt="C++">
+  <img src="assets/badges/java.svg?v=2" alt="Java">
+  <img src="assets/badges/javascript.svg?v=2" alt="JavaScript">
+  <img src="assets/badges/typescript.svg?v=2" alt="TypeScript">
 </p>
 <p align="center">
-  <img src="assets/badges/fastapi.svg" alt="FastAPI">
-  <img src="assets/badges/react.svg" alt="React">
-  <img src="assets/badges/sql.svg" alt="SQL">
-  <img src="assets/badges/html5.svg" alt="HTML5">
-  <img src="assets/badges/css.svg" alt="CSS">
-  <img src="assets/badges/sklearn.svg" alt="scikit-learn">
+  <img src="assets/badges/fastapi.svg?v=2" alt="FastAPI">
+  <img src="assets/badges/react.svg?v=2" alt="React">
+  <img src="assets/badges/sql.svg?v=2" alt="SQL">
+  <img src="assets/badges/html5.svg?v=2" alt="HTML5">
+  <img src="assets/badges/css.svg?v=2" alt="CSS">
+  <img src="assets/badges/sklearn.svg?v=2" alt="scikit-learn">
 </p>
 <p align="center">
-  <img src="assets/badges/fortigate.svg" alt="FortiGate">
-  <img src="assets/badges/fortimanager.svg" alt="FortiManager">
-  <img src="assets/badges/vpn.svg" alt="VPN">
-  <img src="assets/badges/ips.svg" alt="IPS">
-  <img src="assets/badges/dynatrace.svg" alt="Dynatrace">
-  <img src="assets/badges/splunk.svg" alt="Splunk">
+  <img src="assets/badges/fortigate.svg?v=2" alt="FortiGate">
+  <img src="assets/badges/fortimanager.svg?v=2" alt="FortiManager">
+  <img src="assets/badges/vpn.svg?v=2" alt="VPN">
+  <img src="assets/badges/ips.svg?v=2" alt="IPS">
+  <img src="assets/badges/dynatrace.svg?v=2" alt="Dynatrace">
+  <img src="assets/badges/splunk.svg?v=2" alt="Splunk">
 </p>
 <p align="center">
-  <img src="assets/badges/tcpip.svg" alt="TCP/IP">
-  <img src="assets/badges/vlan.svg" alt="VLAN">
-  <img src="assets/badges/nat.svg" alt="NAT">
-  <img src="assets/badges/acl.svg" alt="ACL">
-  <img src="assets/badges/dns.svg" alt="DNS">
-  <img src="assets/badges/dhcp.svg" alt="DHCP">
+  <img src="assets/badges/tcpip.svg?v=2" alt="TCP/IP">
+  <img src="assets/badges/vlan.svg?v=2" alt="VLAN">
+  <img src="assets/badges/nat.svg?v=2" alt="NAT">
+  <img src="assets/badges/acl.svg?v=2" alt="ACL">
+  <img src="assets/badges/dns.svg?v=2" alt="DNS">
+  <img src="assets/badges/dhcp.svg?v=2" alt="DHCP">
 </p>
 <p align="center">
-  <img src="assets/badges/ospf.svg" alt="OSPF">
-  <img src="assets/badges/rip.svg" alt="RIP">
-  <img src="assets/badges/subnetting.svg" alt="Subnetting">
+  <img src="assets/badges/ospf.svg?v=2" alt="OSPF">
+  <img src="assets/badges/rip.svg?v=2" alt="RIP">
+  <img src="assets/badges/subnetting.svg?v=2" alt="Subnetting">
 </p>
 <p align="center">
-  <img src="assets/badges/apm.svg" alt="APM">
-  <img src="assets/badges/tracing.svg" alt="Tracing">
-  <img src="assets/badges/alerting.svg" alt="Alerting">
-  <img src="assets/badges/logs.svg" alt="Log analytics">
+  <img src="assets/badges/apm.svg?v=2" alt="APM">
+  <img src="assets/badges/tracing.svg?v=2" alt="Tracing">
+  <img src="assets/badges/alerting.svg?v=2" alt="Alerting">
+  <img src="assets/badges/logs.svg?v=2" alt="Log analytics">
 </p>
 <p align="center">
-  <img src="assets/badges/llms.svg" alt="LLMs">
-  <img src="assets/badges/classification.svg" alt="Classification">
-  <img src="assets/badges/multiagent.svg" alt="Multi-agent">
-  <img src="assets/badges/features.svg" alt="Feature engineering">
+  <img src="assets/badges/llms.svg?v=2" alt="LLMs">
+  <img src="assets/badges/classification.svg?v=2" alt="Classification">
+  <img src="assets/badges/multiagent.svg?v=2" alt="Multi-agent">
+  <img src="assets/badges/features.svg?v=2" alt="Feature engineering">
 </p>
 
 ## Projects
