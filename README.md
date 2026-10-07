@@ -1,4 +1,4 @@
-<img src="assets/hero.svg" width="100%" alt="Nourseen Tarek. DevSecOps Engineer.">
+<img src="assets/banner.svg" width="100%" alt="Nourseen Tarek. DevSecOps Engineer.">
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=20&duration=2800&pause=1600&color=5C3A45&center=true&vCenter=true&width=760&height=36&lines=Security+Engineering+%C2%B7+DevSecOps;Cloud%2C+AI+%26+Automation;Secure+end-to-end+systems" alt="Security Engineering, DevSecOps, Cloud, AI and Automation">
