@@ -10,13 +10,11 @@
   <img src="assets/badges/python.svg?v=4" alt="Python">
   <img src="assets/badges/cpp.svg?v=4" alt="C++">
   <img src="assets/badges/java.svg?v=4" alt="Java">
+  <img src="assets/badges/csharp.svg?v=4" alt="C#">
   <img src="assets/badges/javascript.svg?v=4" alt="JavaScript">
   <img src="assets/badges/typescript.svg?v=4" alt="TypeScript">
-</p>
-<p align="center">
-  <img src="assets/badges/csharp.svg?v=4" alt="C#">
-  <img src="assets/badges/dotnet.svg?v=4" alt=".NET">
   <img src="assets/badges/nodejs.svg?v=4" alt="Node.js">
+  <img src="assets/badges/dotnet.svg?v=4" alt=".NET">
   <img src="assets/badges/sqlite.svg?v=4" alt="SQLite">
 </p>
 <p align="center">
@@ -26,6 +24,9 @@
   <img src="assets/badges/html5.svg?v=4" alt="HTML5">
   <img src="assets/badges/css.svg?v=4" alt="CSS">
   <img src="assets/badges/sklearn.svg?v=4" alt="scikit-learn">
+  <img src="assets/badges/llms.svg?v=4" alt="LLMs">
+  <img src="assets/badges/classification.svg?v=4" alt="Classification">
+  <img src="assets/badges/multiagent.svg?v=4" alt="Multi-agent">
 </p>
 <p align="center">
   <img src="assets/badges/fortigate.svg?v=4" alt="FortiGate">
@@ -34,6 +35,9 @@
   <img src="assets/badges/ips.svg?v=4" alt="IPS">
   <img src="assets/badges/dynatrace.svg?v=4" alt="Dynatrace">
   <img src="assets/badges/splunk.svg?v=4" alt="Splunk">
+  <img src="assets/badges/apm.svg?v=4" alt="APM">
+  <img src="assets/badges/tracing.svg?v=4" alt="Tracing">
+  <img src="assets/badges/alerting.svg?v=4" alt="Alerting">
 </p>
 <p align="center">
   <img src="assets/badges/vlan.svg?v=4" alt="VLAN">
@@ -41,22 +45,10 @@
   <img src="assets/badges/acl.svg?v=4" alt="ACL">
   <img src="assets/badges/dns.svg?v=4" alt="DNS">
   <img src="assets/badges/dhcp.svg?v=4" alt="DHCP">
-</p>
-<p align="center">
   <img src="assets/badges/ospf.svg?v=4" alt="OSPF">
   <img src="assets/badges/rip.svg?v=4" alt="RIP">
   <img src="assets/badges/subnetting.svg?v=4" alt="Subnetting">
-</p>
-<p align="center">
-  <img src="assets/badges/apm.svg?v=4" alt="APM">
-  <img src="assets/badges/tracing.svg?v=4" alt="Tracing">
-  <img src="assets/badges/alerting.svg?v=4" alt="Alerting">
   <img src="assets/badges/logs.svg?v=4" alt="Log analytics">
-</p>
-<p align="center">
-  <img src="assets/badges/llms.svg?v=4" alt="LLMs">
-  <img src="assets/badges/classification.svg?v=4" alt="Classification">
-  <img src="assets/badges/multiagent.svg?v=4" alt="Multi-agent">
   <img src="assets/badges/features.svg?v=4" alt="Feature engineering">
 </p>
 
