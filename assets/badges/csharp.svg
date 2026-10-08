@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="58" height="20" viewBox="0 0 58 20" role="img" aria-label="C#">
+  <rect width="58" height="20" rx="4" fill="#7A1E2D" fill-opacity="0.72"/>
+  <svg x="6" y="4" width="12" height="12" viewBox="0 0 24 24"><path fill="#F3EEE8" d="M9.2 3h2.1l-.7 4.2h3.3L14.6 3h2.1l-.7 4.2H20v2.1h-4.2l-.8 4.2H20V15.6h-5.2l-.7 4.2h-2.1l.7-4.2H9.4l-.7 4.2H6.6l.7-4.2H3.4V13.5h4.1l.8-4.2H3.4V7.2h5.1L9.2 3zm.9 6.3-.8 4.2h3.3l.8-4.2h-3.3z"/></svg>
+  <text x="22" y="14" fill="#F3EEE8" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="0.3">C#</text>
+</svg>

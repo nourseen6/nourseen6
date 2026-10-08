@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="62" height="20" viewBox="0 0 62 20" role="img" aria-label=".NET">
+  <rect width="62" height="20" rx="4" fill="#7A1E2D" fill-opacity="0.72"/>
+  <svg x="6" y="4" width="12" height="12" viewBox="0 0 24 24"><path fill="#F3EEE8" d="M12 2.2A9.8 9.8 0 1 0 21.8 12 9.8 9.8 0 0 0 12 2.2zm0 2.1a7.7 7.7 0 0 1 6.4 3.4l-2.5 1.5a4.9 4.9 0 0 0-7.8 0L5.6 7.7A7.7 7.7 0 0 1 12 4.3zm0 15.4a7.7 7.7 0 0 1-6.4-3.4l2.5-1.5a4.9 4.9 0 0 0 7.8 0l2.5 1.5A7.7 7.7 0 0 1 12 19.7zM12 8.6A3.4 3.4 0 1 1 8.6 12 3.4 3.4 0 0 1 12 8.6z"/></svg>
+  <text x="22" y="14" fill="#F3EEE8" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="0.3">.NET</text>
+</svg>

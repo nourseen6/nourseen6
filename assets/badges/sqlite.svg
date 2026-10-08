@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="72" height="20" viewBox="0 0 72 20" role="img" aria-label="SQLite">
+  <rect width="72" height="20" rx="4" fill="#7A1E2D" fill-opacity="0.72"/>
+  <svg x="6" y="4" width="12" height="12" viewBox="0 0 24 24"><path fill="#F3EEE8" d="M12 3c-4.4 0-8 1.2-8 2.8v12.4C4 19.8 7.6 21 12 21s8-1.2 8-2.8V5.8C20 4.2 16.4 3 12 3zm0 1.8c3.5 0 6.2.8 6.2 1.6S15.5 8 12 8 5.8 7.2 5.8 6.4 8.5 4.8 12 4.8zm6.2 4.2v2.2c0 .8-2.7 1.6-6.2 1.6s-6.2-.8-6.2-1.6V9c1.3.8 3.6 1.3 6.2 1.3s4.9-.5 6.2-1.3zm0 4.1v2.3c0 .8-2.7 1.6-6.2 1.6s-6.2-.8-6.2-1.6v-2.3c1.3.8 3.6 1.3 6.2 1.3s4.9-.5 6.2-1.3z"/></svg>
+  <text x="22" y="14" fill="#F3EEE8" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="0.3">SQLITE</text>
+</svg>

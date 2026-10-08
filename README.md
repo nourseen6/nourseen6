@@ -14,6 +14,12 @@
   <img src="assets/badges/typescript.svg?v=4" alt="TypeScript">
 </p>
 <p align="center">
+  <img src="assets/badges/csharp.svg?v=4" alt="C#">
+  <img src="assets/badges/dotnet.svg?v=4" alt=".NET">
+  <img src="assets/badges/nodejs.svg?v=4" alt="Node.js">
+  <img src="assets/badges/sqlite.svg?v=4" alt="SQLite">
+</p>
+<p align="center">
   <img src="assets/badges/fastapi.svg?v=4" alt="FastAPI">
   <img src="assets/badges/react.svg?v=4" alt="React">
   <img src="assets/badges/sql.svg?v=4" alt="SQL">
