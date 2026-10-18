@@ -1,6 +1,6 @@
 <img src="assets/diva/cover.gif" width="100%" alt="Nourseen Tarek. Security Engineering, DevSecOps, Cloud, AI and Automation. A woman types on her laptop at night.">
 
-<img src="assets/diva/about.svg" width="100%" alt="About Nourseen: CS student at Alryada University (GPA 3.68, class of 2027), Observability Intern at EJADA, Fortinet Security Engineer track at DEPI / NTI, 1st place at the DevOpsDays Cairo 2026 Hackathon.">
+<img src="assets/diva/whoami.svg" width="100%" alt="About Nourseen: CS student at Alryada University (GPA 3.68, class of 2027), Observability Intern at EJADA, Fortinet Security Engineer track at DEPI / NTI, 1st place at the DevOpsDays Cairo 2026 Hackathon.">
 
 ### Currently working on
 
@@ -41,7 +41,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/nourseen-tarek-1a9718399"><img src="https://img.shields.io/badge/LinkedIn-F0597F?style=flat-square" alt="LinkedIn"></a>
   <a href="mailto:nourkhfaga@gmail.com"><img src="https://img.shields.io/badge/Email-15151C?style=flat-square&logo=gmail&logoColor=F0597F" alt="Email"></a>
-  <img src="https://img.shields.io/badge/Cairo,_Egypt-15151C?style=flat-square" alt="Cairo, Egypt">
 </p>
 
 <br>
