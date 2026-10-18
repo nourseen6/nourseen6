@@ -7,7 +7,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/nourseen-tarek-1a9718399"><img src="https://img.shields.io/badge/LinkedIn-2A0C1C?style=for-the-badge&logo=linkedin&logoColor=FF5C8A" alt="LinkedIn"></a>
   <a href="mailto:nourkhfaga@gmail.com"><img src="https://img.shields.io/badge/Email-2A0C1C?style=for-the-badge&logo=gmail&logoColor=FF5C8A" alt="Email"></a>
-  <img src="https://komarev.com/ghpvc/?username=nourseen6&label=divas+and+devs+visited&color=FF5C8A&labelColor=2A0C1C&style=for-the-badge" alt="Profile views">
 </p>
 
 <br>
