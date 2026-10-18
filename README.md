@@ -1,8 +1,4 @@
-<img src="assets/diva/hero.svg" width="100%" alt="Nourseen Tarek. Computer Science, observability, cloud and infrastructure security. DevOps to DevSecOps.">
-
-<p align="center">
-  <img src="assets/diva/pink-laptop.gif" width="440" alt="Elle Woods pulls a pink heart-shaped laptop out of her bag in a lecture hall full of grey laptops. Caption: the only pink laptop in the room, and it is the one fixing prod.">
-</p>
+<img src="assets/diva/hero.gif" width="100%" alt="Nourseen Tarek, DevOps to DevSecOps. Observability, cloud and infrastructure security. A woman types on her laptop at night.">
 
 <img src="assets/diva/about.svg" width="100%" alt="About Nourseen: CS student at Alryada University (GPA 3.68, class of 2027), Observability Intern at EJADA, Fortinet Security Engineer track at DEPI / NTI, 1st place at the DevOpsDays Cairo 2026 Hackathon.">
 
@@ -37,11 +33,10 @@
   <tr><td><b>AI &amp; IoT</b></td><td><img src="https://img.shields.io/badge/scikit--learn-15151C?style=flat-square&logo=scikitlearn&logoColor=F0597F" alt="scikit-learn"> <img src="https://img.shields.io/badge/TF_Lite_Micro-15151C?style=flat-square&logo=tensorflow&logoColor=F0597F" alt="TF Lite Micro"> <img src="https://img.shields.io/badge/LLMs-15151C?style=flat-square" alt="LLMs"> <img src="https://img.shields.io/badge/YOLOv8-15151C?style=flat-square" alt="YOLOv8"> <img src="https://img.shields.io/badge/MQTT-15151C?style=flat-square&logo=mqtt&logoColor=F0597F" alt="MQTT"> <img src="https://img.shields.io/badge/Raspberry_Pi-15151C?style=flat-square&logo=raspberrypi&logoColor=F0597F" alt="Raspberry Pi"> </td></tr>
 </table>
 
-### Let's build something together
+<h3 align="center">Let's build something together</h3>
 
 <p align="center">
-  Up for contributing to open source, joining a hackathon team, or building something new together.<br>
-  Reach out, I'd love to hear what you're working on.
+  Up for contributing to open source, joining a hackathon team, or building something new together.
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/nourseen-tarek-1a9718399"><img src="https://img.shields.io/badge/LinkedIn-F0597F?style=flat-square" alt="LinkedIn"></a>
