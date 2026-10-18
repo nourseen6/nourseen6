@@ -4,14 +4,6 @@
   <img src="assets/diva/pink-laptop.gif" width="440" alt="Elle Woods pulls a pink heart-shaped laptop out of her bag in a lecture hall full of grey laptops. Caption: the only pink laptop in the room, and it is the one fixing prod.">
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nourseen-tarek-1a9718399"><img src="https://img.shields.io/badge/LinkedIn-F0597F?style=flat-square" alt="LinkedIn"></a>
-  <a href="mailto:nourkhfaga@gmail.com"><img src="https://img.shields.io/badge/Email-15151C?style=flat-square&logo=gmail&logoColor=F0597F" alt="Email"></a>
-  <img src="https://img.shields.io/badge/Cairo,_Egypt-15151C?style=flat-square" alt="Cairo, Egypt">
-</p>
-
-<br>
-
 <img src="assets/diva/about.svg" width="100%" alt="About Nourseen: CS student at Alryada University (GPA 3.68, class of 2027), Observability Intern at EJADA, Fortinet Security Engineer track at DEPI / NTI, 1st place at the DevOpsDays Cairo 2026 Hackathon.">
 
 ### Currently working on
@@ -23,16 +15,15 @@
   </tr>
 </table>
 
-### Projects
-
-| Project | What it is | Stack |
-| --- | --- | --- |
-| <a href="https://github.com/nourseen6/isac-smart-threat-monitor"><b>ISAC Threat Monitor</b></a> | AIoT intrusion monitor: Pi sensors stream over MQTT to a YOLOv8 person detector and a Flask dashboard | Python · YOLOv8 · MQTT · Flask |
-| <a href="https://github.com/nourseen6/hack-apertus-redteam"><b>Hack Apertus Red-Team</b></a> | Hack Apertus 2026, Track 1A: red-teaming the Apertus 1.5 LLM | Python · LLMs · Docker |
-| <a href="https://github.com/nourseen6/garage-pay"><b>Garage Pay</b></a> | Remote-diagnosis garage demo with Paymob sandbox payments | TypeScript |
-| <a href="https://github.com/nourseen6/Fortinet-Device-Management-with-FortiManager"><b>FortiManager Fleet Lab</b></a> | Managing FortiGate devices from FortiManager: config, security policies, troubleshooting | FortiGate · FortiManager |
-| <a href="https://github.com/nourseen6/PetroTrans-Lubricants-System"><b>PetroTrans Lubricants System</b></a> | Arabic-first offline desktop app: sales, inventory ledger, customers, treasury | C# · .NET · SQLite |
-| <a href="https://github.com/nourseen6/Lexical-Analyzer-compiler-"><b>Lexical Analyzer</b></a> | The scanner stage of a compiler | C++ |
+<p align="center"><b>Check out my other projects</b></p>
+<p align="center">
+  <a href="https://github.com/nourseen6/isac-smart-threat-monitor"><img src="https://img.shields.io/badge/ISAC%20Threat%20Monitor-15151C?style=flat-square&logo=github&logoColor=F0597F" alt="ISAC Threat Monitor"></a>
+  <a href="https://github.com/nourseen6/hack-apertus-redteam"><img src="https://img.shields.io/badge/Hack%20Apertus%20Red--Team-15151C?style=flat-square&logo=github&logoColor=F0597F" alt="Hack Apertus Red-Team"></a>
+  <a href="https://github.com/nourseen6/garage-pay"><img src="https://img.shields.io/badge/Garage%20Pay-15151C?style=flat-square&logo=github&logoColor=F0597F" alt="Garage Pay"></a>
+  <a href="https://github.com/nourseen6/Fortinet-Device-Management-with-FortiManager"><img src="https://img.shields.io/badge/FortiManager%20Fleet%20Lab-15151C?style=flat-square&logo=github&logoColor=F0597F" alt="FortiManager Fleet Lab"></a>
+  <a href="https://github.com/nourseen6/PetroTrans-Lubricants-System"><img src="https://img.shields.io/badge/PetroTrans%20System-15151C?style=flat-square&logo=github&logoColor=F0597F" alt="PetroTrans System"></a>
+  <a href="https://github.com/nourseen6/Lexical-Analyzer-compiler-"><img src="https://img.shields.io/badge/Lexical%20Analyzer-15151C?style=flat-square&logo=github&logoColor=F0597F" alt="Lexical Analyzer"></a>
+</p>
 
 ### Toolbox
 
@@ -45,6 +36,18 @@
   <tr><td><b>Frameworks</b></td><td><img src="https://img.shields.io/badge/FastAPI-15151C?style=flat-square&logo=fastapi&logoColor=F0597F" alt="FastAPI"> <img src="https://img.shields.io/badge/Flask-15151C?style=flat-square&logo=flask&logoColor=F0597F" alt="Flask"> <img src="https://img.shields.io/badge/NestJS-15151C?style=flat-square&logo=nestjs&logoColor=F0597F" alt="NestJS"> <img src="https://img.shields.io/badge/React-15151C?style=flat-square&logo=react&logoColor=F0597F" alt="React"> <img src="https://img.shields.io/badge/Node.js-15151C?style=flat-square&logo=nodedotjs&logoColor=F0597F" alt="Node.js"> <img src="https://img.shields.io/badge/.NET-15151C?style=flat-square&logo=dotnet&logoColor=F0597F" alt=".NET"> </td></tr>
   <tr><td><b>AI &amp; IoT</b></td><td><img src="https://img.shields.io/badge/scikit--learn-15151C?style=flat-square&logo=scikitlearn&logoColor=F0597F" alt="scikit-learn"> <img src="https://img.shields.io/badge/TF_Lite_Micro-15151C?style=flat-square&logo=tensorflow&logoColor=F0597F" alt="TF Lite Micro"> <img src="https://img.shields.io/badge/LLMs-15151C?style=flat-square" alt="LLMs"> <img src="https://img.shields.io/badge/YOLOv8-15151C?style=flat-square" alt="YOLOv8"> <img src="https://img.shields.io/badge/MQTT-15151C?style=flat-square&logo=mqtt&logoColor=F0597F" alt="MQTT"> <img src="https://img.shields.io/badge/Raspberry_Pi-15151C?style=flat-square&logo=raspberrypi&logoColor=F0597F" alt="Raspberry Pi"> </td></tr>
 </table>
+
+### Let's build something together
+
+<p align="center">
+  Up for contributing to open source, joining a hackathon team, or building something new together.<br>
+  Reach out, I'd love to hear what you're working on.
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/nourseen-tarek-1a9718399"><img src="https://img.shields.io/badge/LinkedIn-F0597F?style=flat-square" alt="LinkedIn"></a>
+  <a href="mailto:nourkhfaga@gmail.com"><img src="https://img.shields.io/badge/Email-15151C?style=flat-square&logo=gmail&logoColor=F0597F" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Cairo,_Egypt-15151C?style=flat-square" alt="Cairo, Egypt">
+</p>
 
 <br>
 
