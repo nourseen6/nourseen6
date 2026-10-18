@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="392" viewBox="0 0 960 392" fill="none" role="img" aria-label="About Nourseen: Computer Science student at Alryada University, GPA 3.68, class of 2027. Observability intern at EJADA. Fortinet Security Engineer track at DEPI and NTI. First place at the DevOpsDays Cairo 2026 hackathon. Speaks Arabic, English and Italian.">
+  <style>
+    .mono { font-family: 'Cascadia Code', Consolas, 'SFMono-Regular', Menlo, 'Courier New', monospace; }
+    .ln { opacity: 0; animation: in .45s ease-out forwards; }
+    @keyframes in { from { opacity: 0; transform: translateX(-8px) } to { opacity: 1; transform: none } }
+    .blink { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0 } }
+    .k { fill: #FF5C8A; } .v { fill: #FFE9EF; } .c { fill: #9C7083; } .g { fill: #F2C879; } .p { fill: #FFB3C7; }
+  </style>
+  <rect width="960" height="392" rx="20" fill="#16080F"/>
+  <rect x="1" y="1" width="958" height="390" rx="19" stroke="#FF5C8A" stroke-opacity="0.3" stroke-width="1.5"/>
+
+  <!-- title bar -->
+  <path d="M1 20 A19 19 0 0 1 20 1 H940 A19 19 0 0 1 959 20 V44 H1 Z" fill="#24101B"/>
+  <circle cx="28" cy="23" r="6.5" fill="#FF5C8A"/>
+  <circle cx="50" cy="23" r="6.5" fill="#F2C879"/>
+  <circle cx="72" cy="23" r="6.5" fill="#FFB3C7"/>
+  <text x="480" y="28" text-anchor="middle" class="mono" font-size="13" fill="#9C7083">nourseen@prod: ~/about — zsh</text>
+
+  <g class="mono" font-size="15.5" xml:space="preserve">
+    <text x="32" y="82" class="ln" style="animation-delay:.2s"><tspan class="g">nourseen@prod</tspan><tspan class="v">:</tspan><tspan class="p">~</tspan><tspan class="v">$ cat about.yaml</tspan></text>
+
+    <text x="32" y="118" class="ln" style="animation-delay:.7s"><tspan class="k">name:</tspan>        <tspan class="v">Nourseen Tarek</tspan></text>
+    <text x="32" y="146" class="ln" style="animation-delay:1.0s"><tspan class="k">based_in:</tspan>    <tspan class="v">Cairo, Egypt</tspan></text>
+    <text x="32" y="174" class="ln" style="animation-delay:1.3s"><tspan class="k">studying:</tspan>    <tspan class="v">B.Sc. Computer Science @ Alryada University</tspan>  <tspan class="c"># GPA 3.68, class of '27</tspan></text>
+    <text x="32" y="202" class="ln" style="animation-delay:1.6s"><tspan class="k">shipped_at:</tspan>  <tspan class="v">EJADA, Observability Intern</tspan>  <tspan class="c"># logs, traces, alerts, root cause</tspan></text>
+    <text x="32" y="230" class="ln" style="animation-delay:1.9s"><tspan class="k">trained_at:</tspan>  <tspan class="v">DEPI / NTI, Fortinet Security Engineer</tspan>  <tspan class="c"># FortiGate, IPsec, IPS</tspan></text>
+    <text x="32" y="258" class="ln" style="animation-delay:2.2s"><tspan class="k">trophies:</tspan>    <tspan class="g">1st place, DevOpsDays Cairo 2026 Hackathon (ITIDA)</tspan></text>
+    <text x="32" y="286" class="ln" style="animation-delay:2.5s"><tspan class="k">speaks:</tspan>      <tspan class="v">[arabic, english, italiano]</tspan></text>
+    <text x="32" y="314" class="ln" style="animation-delay:2.8s"><tspan class="k">current_arc:</tspan> <tspan class="v">devops</tspan> <tspan class="p">--&gt;</tspan> <tspan class="g">devsecops</tspan>  <tspan class="c"># shifting left, heels on</tspan></text>
+
+    <text x="32" y="356" class="ln" style="animation-delay:3.3s"><tspan class="g">nourseen@prod</tspan><tspan class="v">:</tspan><tspan class="p">~</tspan><tspan class="v">$ </tspan><tspan class="k blink">█</tspan></text>
+  </g>
+</svg>
