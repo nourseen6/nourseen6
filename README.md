@@ -1,63 +1,27 @@
-<img src="assets/diva/hero.svg" width="100%" alt="Nourseen Tarek. DevOps engineer in the making, DevSecOps loading.">
+<img src="assets/diva/hero.svg" width="100%" alt="Nourseen Tarek. Computer Science, observability, cloud and infrastructure security. DevOps to DevSecOps.">
+
+<h3 align="center">Hi, I'm Nourseen <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Tipping%20Hand.png" width="34" alt=""></h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2600&pause=1200&color=FF5C8A&center=true&vCenter=true&width=720&height=34&lines=Building+pipelines+by+day+%F0%9F%9A%80;Securing+them+by+night+%F0%9F%94%90;Shift+left%2C+heels+on+%F0%9F%91%A0;DevOps+%E2%86%92+DevSecOps%2C+loading..." alt="Building pipelines by day. Securing them by night. Shift left, heels on. DevOps to DevSecOps, loading.">
+  CS student on the road to DevSecOps: network security first, then observability in production,<br>
+  now building pipelines so I can secure every step of them.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nourseen-tarek-1a9718399"><img src="https://img.shields.io/badge/LinkedIn-2A0C1C?style=for-the-badge&logo=linkedin&logoColor=FF5C8A" alt="LinkedIn"></a>
-  <a href="mailto:nourkhfaga@gmail.com"><img src="https://img.shields.io/badge/Email-2A0C1C?style=for-the-badge&logo=gmail&logoColor=FF5C8A" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/nourseen-tarek-1a9718399"><img src="https://img.shields.io/badge/LinkedIn-F0597F?style=flat-square" alt="LinkedIn"></a>
+  <a href="mailto:nourkhfaga@gmail.com"><img src="https://img.shields.io/badge/Email-15151C?style=flat-square&logo=gmail&logoColor=F0597F" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Cairo,_Egypt-15151C?style=flat-square" alt="Cairo, Egypt">
 </p>
 
 <br>
 
-## 💅 `whoami`
+<img src="assets/diva/about.svg" width="100%" alt="About Nourseen: CS student at Alryada University (GPA 3.68, class of 2027), Observability Intern at EJADA, Fortinet Security Engineer track at DEPI / NTI, 1st place at the DevOpsDays Cairo 2026 Hackathon.">
 
-<img src="assets/diva/about.svg" width="100%" alt="About Nourseen: CS student at Alryada University (GPA 3.68, class of 2027), Observability Intern at EJADA, Fortinet Security Engineer track at DEPI / NTI, 1st place at the DevOpsDays Cairo 2026 Hackathon. Speaks Arabic, English and Italian.">
+### Roadmap
 
-## 🚀 The glow-up
+<img src="assets/diva/glowup.svg" width="100%" alt="Roadmap: 01 network security (done), 02 observability (done), 03 DevOps (now), 04 DevSecOps (next).">
 
-Networks first, then watching systems in production, now building the pipelines, and next, securing every step of them.
-
-<img src="assets/diva/glowup.svg" width="100%" alt="Career pipeline: 1 network security (done), 2 observability (done), 3 DevOps (now), 4 DevSecOps (next).">
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xUA7b17osqXImEFJKM/giphy.gif" width="360" alt="Elle Woods from Legally Blonde asking: What, like it's hard?"><br>
-  <sub><i>me, when someone asks if I'm learning DevSecOps on top of DevOps</i></sub>
-</p>
-
-## 🧰 Toolbox
-
-<p align="center"><b>☁️ ship it</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,docker,git,github,aws,azure,gcp&theme=dark" alt="Linux, Bash, Docker, Git, GitHub, AWS, Azure, GCP">
-</p>
-
-<p align="center"><b>🛒 in my cart</b> <sub>(learning right now)</sub></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kubernetes,terraform,githubactions,ansible,prometheus,grafana&theme=dark" alt="Kubernetes, Terraform, GitHub Actions, Ansible, Prometheus, Grafana">
-</p>
-
-<p align="center"><b>🔐 secure it</b> &nbsp;·&nbsp; <b>📈 watch it</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/FortiGate_7.6-2A0C1C?style=for-the-badge&logo=fortinet&logoColor=FF5C8A" alt="FortiGate 7.6">
-  <img src="https://img.shields.io/badge/FortiManager_7.6-2A0C1C?style=for-the-badge&logo=fortinet&logoColor=FF5C8A" alt="FortiManager 7.6">
-  <img src="https://img.shields.io/badge/IPsec_VPN_·_IPS-2A0C1C?style=for-the-badge" alt="IPsec VPN and IPS">
-  <img src="https://img.shields.io/badge/Policy_as_Code_(OPA)-2A0C1C?style=for-the-badge" alt="Policy as code with OPA">
-  <img src="https://img.shields.io/badge/Security+-2A0C1C?style=for-the-badge&logo=comptia&logoColor=FF5C8A" alt="Security+">
-  <br>
-  <img src="https://img.shields.io/badge/AppDynamics-2A0C1C?style=for-the-badge&logo=cisco&logoColor=F2C879" alt="AppDynamics">
-  <img src="https://img.shields.io/badge/Dynatrace-2A0C1C?style=for-the-badge&logo=dynatrace&logoColor=F2C879" alt="Dynatrace">
-  <img src="https://img.shields.io/badge/OpenTelemetry-2A0C1C?style=for-the-badge&logo=opentelemetry&logoColor=F2C879" alt="OpenTelemetry">
-  <img src="https://img.shields.io/badge/Tracing_·_Alerting_·_RCA-2A0C1C?style=for-the-badge" alt="Tracing, alerting and root-cause analysis">
-</p>
-
-<p align="center"><b>💻 build it</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,java,cpp,cs,react,fastapi,flask,nestjs,nodejs,dotnet,sqlite,sklearn,tensorflow,raspberrypi&perline=8&theme=dark" alt="Python, TypeScript, JavaScript, Java, C++, C#, React, FastAPI, Flask, NestJS, Node.js, .NET, SQLite, scikit-learn, TensorFlow, Raspberry Pi">
-</p>
-
-## 🏆 Featured builds
+### Featured projects
 
 <table>
   <tr>
@@ -70,45 +34,20 @@ Networks first, then watching systems in production, now building the pipelines,
   </tr>
 </table>
 
-<p align="center">
-  <sub>also on the runway:
-  <a href="https://github.com/nourseen6/Fortinet-Device-Management-with-FortiManager">FortiManager fleet lab</a> ·
-  <a href="https://github.com/nourseen6/PetroTrans-Lubricants-System">PetroTrans desktop system</a> ·
-  <a href="https://github.com/nourseen6/garage-pay">Garage Pay</a></sub>
-</p>
+<sub>More: <a href="https://github.com/nourseen6/Fortinet-Device-Management-with-FortiManager">FortiManager fleet lab</a> · <a href="https://github.com/nourseen6/PetroTrans-Lubricants-System">PetroTrans desktop system</a> · <a href="https://github.com/nourseen6/garage-pay">Garage Pay</a></sub>
 
-## 🌸 `diva.yaml`
+### Toolbox
 
-```yaml
-apiVersion: diva.dev/v1
-kind: Engineer
-metadata:
-  name: nourseen-tarek
-  labels:
-    vibe: main-character
-    tier: production-ready
-spec:
-  replicas: 1                          # one of a kind 💅
-  image: nourseen:latest-and-greatest
-  strategy: shift-left                 # security first, heels on
-  nodeSelector:
-    community: women-in-tech
-  securityContext:
-    runAsNonRoot: true
-    readOnlyRootFilesystem: true       # can't change my mind either
-  resources:
-    requests: { coffee: "3 cups", playlist: "loud" }
-    limits:   { tolerance_for_hardcoded_secrets: "0" }
-  livenessProbe:
-    exec: ["kubectl", "get", "vibes"]
-```
+<table>
+  <tr><td><b>Cloud &amp; DevOps</b></td><td><img src="https://img.shields.io/badge/Linux-15151C?style=flat-square&logo=linux&logoColor=F0597F" alt="Linux"> <img src="https://img.shields.io/badge/Bash-15151C?style=flat-square&logo=gnubash&logoColor=F0597F" alt="Bash"> <img src="https://img.shields.io/badge/Docker-15151C?style=flat-square&logo=docker&logoColor=F0597F" alt="Docker"> <img src="https://img.shields.io/badge/Git-15151C?style=flat-square&logo=git&logoColor=F0597F" alt="Git"> <img src="https://img.shields.io/badge/GitHub-15151C?style=flat-square&logo=github&logoColor=F0597F" alt="GitHub"> <img src="https://img.shields.io/badge/AWS-15151C?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/Azure-15151C?style=flat-square" alt="Azure"> <img src="https://img.shields.io/badge/GCP-15151C?style=flat-square&logo=googlecloud&logoColor=F0597F" alt="Google Cloud"> </td></tr>
+  <tr><td><b>Learning now</b></td><td><img src="https://img.shields.io/badge/Kubernetes-15151C?style=flat-square&logo=kubernetes&logoColor=F0597F" alt="Kubernetes"> <img src="https://img.shields.io/badge/Terraform-15151C?style=flat-square&logo=terraform&logoColor=F0597F" alt="Terraform"> <img src="https://img.shields.io/badge/GitHub_Actions-15151C?style=flat-square&logo=githubactions&logoColor=F0597F" alt="GitHub Actions"> <img src="https://img.shields.io/badge/Ansible-15151C?style=flat-square&logo=ansible&logoColor=F0597F" alt="Ansible"> <img src="https://img.shields.io/badge/Prometheus-15151C?style=flat-square&logo=prometheus&logoColor=F0597F" alt="Prometheus"> <img src="https://img.shields.io/badge/Grafana-15151C?style=flat-square&logo=grafana&logoColor=F0597F" alt="Grafana"> </td></tr>
+  <tr><td><b>Security</b></td><td><img src="https://img.shields.io/badge/FortiGate_7.6-15151C?style=flat-square&logo=fortinet&logoColor=F0597F" alt="FortiGate 7.6"> <img src="https://img.shields.io/badge/FortiManager_7.6-15151C?style=flat-square&logo=fortinet&logoColor=F0597F" alt="FortiManager 7.6"> <img src="https://img.shields.io/badge/IPsec_VPN-15151C?style=flat-square" alt="IPsec VPN"> <img src="https://img.shields.io/badge/IPS-15151C?style=flat-square" alt="IPS"> <img src="https://img.shields.io/badge/Policy_as_Code_(OPA)-15151C?style=flat-square" alt="Policy as code (OPA)"> <img src="https://img.shields.io/badge/Security%2B-15151C?style=flat-square&logo=comptia&logoColor=F0597F" alt="Security+"> </td></tr>
+  <tr><td><b>Observability</b></td><td><img src="https://img.shields.io/badge/AppDynamics-15151C?style=flat-square&logo=cisco&logoColor=F0597F" alt="AppDynamics"> <img src="https://img.shields.io/badge/Dynatrace-15151C?style=flat-square&logo=dynatrace&logoColor=F0597F" alt="Dynatrace"> <img src="https://img.shields.io/badge/OpenTelemetry-15151C?style=flat-square&logo=opentelemetry&logoColor=F0597F" alt="OpenTelemetry"> <img src="https://img.shields.io/badge/Log_Analytics-15151C?style=flat-square" alt="Log analytics"> <img src="https://img.shields.io/badge/Distributed_Tracing-15151C?style=flat-square" alt="Distributed tracing"> </td></tr>
+  <tr><td><b>Languages</b></td><td><img src="https://img.shields.io/badge/Python-15151C?style=flat-square&logo=python&logoColor=F0597F" alt="Python"> <img src="https://img.shields.io/badge/TypeScript-15151C?style=flat-square&logo=typescript&logoColor=F0597F" alt="TypeScript"> <img src="https://img.shields.io/badge/JavaScript-15151C?style=flat-square&logo=javascript&logoColor=F0597F" alt="JavaScript"> <img src="https://img.shields.io/badge/Java-15151C?style=flat-square&logo=openjdk&logoColor=F0597F" alt="Java"> <img src="https://img.shields.io/badge/C%2B%2B-15151C?style=flat-square&logo=cplusplus&logoColor=F0597F" alt="C++"> <img src="https://img.shields.io/badge/C%23-15151C?style=flat-square" alt="C#"> <img src="https://img.shields.io/badge/SQL-15151C?style=flat-square&logo=mysql&logoColor=F0597F" alt="SQL"> </td></tr>
+  <tr><td><b>Frameworks</b></td><td><img src="https://img.shields.io/badge/FastAPI-15151C?style=flat-square&logo=fastapi&logoColor=F0597F" alt="FastAPI"> <img src="https://img.shields.io/badge/Flask-15151C?style=flat-square&logo=flask&logoColor=F0597F" alt="Flask"> <img src="https://img.shields.io/badge/NestJS-15151C?style=flat-square&logo=nestjs&logoColor=F0597F" alt="NestJS"> <img src="https://img.shields.io/badge/React-15151C?style=flat-square&logo=react&logoColor=F0597F" alt="React"> <img src="https://img.shields.io/badge/Node.js-15151C?style=flat-square&logo=nodedotjs&logoColor=F0597F" alt="Node.js"> <img src="https://img.shields.io/badge/.NET-15151C?style=flat-square&logo=dotnet&logoColor=F0597F" alt=".NET"> </td></tr>
+  <tr><td><b>AI &amp; IoT</b></td><td><img src="https://img.shields.io/badge/scikit--learn-15151C?style=flat-square&logo=scikitlearn&logoColor=F0597F" alt="scikit-learn"> <img src="https://img.shields.io/badge/TF_Lite_Micro-15151C?style=flat-square&logo=tensorflow&logoColor=F0597F" alt="TF Lite Micro"> <img src="https://img.shields.io/badge/LLMs-15151C?style=flat-square" alt="LLMs"> <img src="https://img.shields.io/badge/YOLOv8-15151C?style=flat-square" alt="YOLOv8"> <img src="https://img.shields.io/badge/MQTT-15151C?style=flat-square&logo=mqtt&logoColor=F0597F" alt="MQTT"> <img src="https://img.shields.io/badge/Raspberry_Pi-15151C?style=flat-square&logo=raspberrypi&logoColor=F0597F" alt="Raspberry Pi"> </td></tr>
+</table>
 
-## 📬 Let's build something secure together
+<br>
 
-<p align="center">
-  Always up for DevOps and DevSecOps chats, hackathon teams, and long talks about pipelines.<br><br>
-  <a href="https://www.linkedin.com/in/nourseen-tarek-1a9718399"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-FF5C8A?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
-  <a href="mailto:nourkhfaga@gmail.com"><img src="https://img.shields.io/badge/Say_hi-F2C879?style=for-the-badge&logo=gmail&logoColor=2A0C1C" alt="Send an email"></a>
-</p>
-
-<img src="assets/diva/footer.svg" width="100%" alt="Secure by design, fabulous by default.">
+<img src="assets/diva/footer.svg" width="100%" alt="Secure by design.">

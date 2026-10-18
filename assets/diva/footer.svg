@@ -1,28 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="150" viewBox="0 0 960 150" fill="none" role="img" aria-label="Secure by design. Fabulous by default.">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="70" viewBox="0 0 960 70" fill="none" role="img" aria-label="Secure by design.">
   <defs>
-    <linearGradient id="w1" x1="0" y1="0" x2="960" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#FF5C8A"/><stop offset="1" stop-color="#F2C879"/></linearGradient>
-    <path id="spark" d="M0 -6 C1 -1 1 -1 6 0 C1 1 1 1 0 6 C-1 1 -1 1 -6 0 C-1 -1 -1 -1 0 -6Z"/>
+    <linearGradient id="l" x1="0" y1="0" x2="960" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#24242E" stop-opacity="0"/><stop offset="0.5" stop-color="#3A3A46"/><stop offset="1" stop-color="#24242E" stop-opacity="0"/>
+    </linearGradient>
   </defs>
-  <style>
-    .serif { font-family: Georgia, 'Times New Roman', serif; }
-    .tw { animation: tw 2.4s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
-    @keyframes tw { 0%,100% { opacity: .2; transform: scale(.6) } 50% { opacity: 1; transform: scale(1.1) } }
-  </style>
-  <path fill="#2A0C1C" d="M0 70 C160 40 320 100 480 70 C640 40 800 100 960 70 V150 H0 Z">
-    <animate attributeName="d" dur="7s" repeatCount="indefinite" values="
-      M0 70 C160 40 320 100 480 70 C640 40 800 100 960 70 V150 H0 Z;
-      M0 70 C160 100 320 40 480 70 C640 100 800 40 960 70 V150 H0 Z;
-      M0 70 C160 40 320 100 480 70 C640 40 800 100 960 70 V150 H0 Z"/>
-  </path>
-  <path stroke="url(#w1)" stroke-width="2" fill="none" d="M0 70 C160 40 320 100 480 70 C640 40 800 100 960 70">
-    <animate attributeName="d" dur="7s" repeatCount="indefinite" values="
-      M0 70 C160 40 320 100 480 70 C640 40 800 100 960 70;
-      M0 70 C160 100 320 40 480 70 C640 100 800 40 960 70;
-      M0 70 C160 40 320 100 480 70 C640 40 800 100 960 70"/>
-  </path>
-  <text x="480" y="122" text-anchor="middle" class="serif" font-size="22" font-style="italic" fill="#FFD6E0">secure by design <tspan fill="#F2C879">·</tspan> fabulous by default</text>
-  <g fill="#F2C879">
-    <g transform="translate(250 116)"><use href="#spark" class="tw"/></g>
-    <g transform="translate(710 116)"><use href="#spark" class="tw" style="animation-delay:1.2s"/></g>
-  </g>
+  <path d="M0 22 H960" stroke="url(#l)"/>
+  <circle cy="22" r="2.5" fill="#F0597F">
+    <animate attributeName="cx" values="120;840;120" dur="9s" repeatCount="indefinite"/>
+  </circle>
+  <text x="480" y="56" text-anchor="middle" font-family="'Cascadia Code', Consolas, Menlo, 'Courier New', monospace" font-size="12" letter-spacing="3" fill="#5E5E6B">SECURE BY DESIGN</text>
 </svg>
