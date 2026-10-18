@@ -1,4 +1,4 @@
-<img src="assets/diva/hero.gif" width="100%" alt="Nourseen Tarek, DevOps to DevSecOps. Observability, cloud and infrastructure security. A woman types on her laptop at night.">
+<img src="assets/diva/hero.gif" width="100%" alt="Nourseen Tarek. Security Engineering, DevSecOps, Cloud, AI and Automation. A woman types on her laptop at night.">
 
 <img src="assets/diva/about.svg" width="100%" alt="About Nourseen: CS student at Alryada University (GPA 3.68, class of 2027), Observability Intern at EJADA, Fortinet Security Engineer track at DEPI / NTI, 1st place at the DevOpsDays Cairo 2026 Hackathon.">
 
