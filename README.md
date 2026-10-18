@@ -1,10 +1,7 @@
 <img src="assets/diva/hero.svg" width="100%" alt="Nourseen Tarek. Computer Science, observability, cloud and infrastructure security. DevOps to DevSecOps.">
 
-<h3 align="center">Hi, I'm Nourseen <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Tipping%20Hand.png" width="34" alt=""></h3>
-
 <p align="center">
-  CS student on the road to DevSecOps: network security first, then observability in production,<br>
-  now building pipelines so I can secure every step of them.
+  <img src="assets/diva/pink-laptop.gif" width="440" alt="Elle Woods pulls a pink heart-shaped laptop out of her bag in a lecture hall full of grey laptops. Caption: the only pink laptop in the room, and it is the one fixing prod.">
 </p>
 
 <p align="center">
@@ -17,24 +14,25 @@
 
 <img src="assets/diva/about.svg" width="100%" alt="About Nourseen: CS student at Alryada University (GPA 3.68, class of 2027), Observability Intern at EJADA, Fortinet Security Engineer track at DEPI / NTI, 1st place at the DevOpsDays Cairo 2026 Hackathon.">
 
-### Roadmap
-
-<img src="assets/diva/glowup.svg" width="100%" alt="Roadmap: 01 network security (done), 02 observability (done), 03 DevOps (now), 04 DevSecOps (next).">
-
-### Featured projects
+### Currently working on
 
 <table>
   <tr>
     <td width="50%"><a href="https://github.com/nourseen6/incident-commander"><img src="assets/diva/p-incident.svg" width="100%" alt="Incident Commander: multi-agent incident diagnosis, 1st place at DevOpsDays Cairo 2026."></a></td>
     <td width="50%"><a href="https://github.com/nourseen6/sentrix-core"><img src="assets/diva/p-sentrix.svg" width="100%" alt="SentriX Core: personal-safety wearable with edge AI. Graduation project."></a></td>
   </tr>
-  <tr>
-    <td width="50%"><a href="https://github.com/nourseen6/isac-smart-threat-monitor"><img src="assets/diva/p-isac.svg" width="100%" alt="ISAC Threat Monitor: Raspberry Pi, MQTT and YOLOv8 intrusion monitoring."></a></td>
-    <td width="50%"><a href="https://github.com/nourseen6/hack-apertus-redteam"><img src="assets/diva/p-apertus.svg" width="100%" alt="Hack Apertus Red-Team: red-teaming the Apertus 1.5 LLM."></a></td>
-  </tr>
 </table>
 
-<sub>More: <a href="https://github.com/nourseen6/Fortinet-Device-Management-with-FortiManager">FortiManager fleet lab</a> · <a href="https://github.com/nourseen6/PetroTrans-Lubricants-System">PetroTrans desktop system</a> · <a href="https://github.com/nourseen6/garage-pay">Garage Pay</a></sub>
+### Projects
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| <a href="https://github.com/nourseen6/isac-smart-threat-monitor"><b>ISAC Threat Monitor</b></a> | AIoT intrusion monitor: Pi sensors stream over MQTT to a YOLOv8 person detector and a Flask dashboard | Python · YOLOv8 · MQTT · Flask |
+| <a href="https://github.com/nourseen6/hack-apertus-redteam"><b>Hack Apertus Red-Team</b></a> | Hack Apertus 2026, Track 1A: red-teaming the Apertus 1.5 LLM | Python · LLMs · Docker |
+| <a href="https://github.com/nourseen6/garage-pay"><b>Garage Pay</b></a> | Remote-diagnosis garage demo with Paymob sandbox payments | TypeScript |
+| <a href="https://github.com/nourseen6/Fortinet-Device-Management-with-FortiManager"><b>FortiManager Fleet Lab</b></a> | Managing FortiGate devices from FortiManager: config, security policies, troubleshooting | FortiGate · FortiManager |
+| <a href="https://github.com/nourseen6/PetroTrans-Lubricants-System"><b>PetroTrans Lubricants System</b></a> | Arabic-first offline desktop app: sales, inventory ledger, customers, treasury | C# · .NET · SQLite |
+| <a href="https://github.com/nourseen6/Lexical-Analyzer-compiler-"><b>Lexical Analyzer</b></a> | The scanner stage of a compiler | C++ |
 
 ### Toolbox
 
