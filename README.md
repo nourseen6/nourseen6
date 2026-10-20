@@ -3,16 +3,11 @@
 
 ### Currently working on
 
-<table>
-  <tr>
-    <td width="50%"><a href="https://github.com/nourseen6/incident-commander"><img src="assets/diva/p-incident.svg" width="100%" alt="Incident Commander: multi-agent incident diagnosis, 1st place at DevOpsDays Cairo 2026."></a></td>
-    <td width="50%"><a href="https://github.com/nourseen6/sentrix-core"><img src="assets/diva/p-sentrix.svg" width="100%" alt="SentriX Core: personal-safety wearable with edge AI. Graduation project."></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://github.com/nourseen6/secure-cicd-pipeline"><img src="assets/diva/p-pipeline.svg" width="100%" alt="Secure CI/CD Pipeline: tests, secret scanning, image scanning with Trivy, on GitHub Actions and Jenkins."></a></td>
-    <td width="50%"></td>
-  </tr>
-</table>
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [**Incident Commander**](https://github.com/nourseen6/incident-commander) | Multi-agent incident diagnosis with policy-as-code guardrails. 1st place, DevOpsDays Cairo 2026 | Python · FastAPI · React · TypeScript |
+| [**SentriX Core**](https://github.com/nourseen6/sentrix-core) | Graduation project: personal-safety wearable with on-device AI and secure alerts | TinyML · BLE · eSIM · Cloud |
+| [**Secure CI/CD Pipeline**](https://github.com/nourseen6/secure-cicd-pipeline) | DevSecOps pipeline with secret, image and dependency scanning that fails on CRITICAL | GitHub Actions · Jenkins · Docker · Trivy |
 
 <p align="center"><b>Check out my other projects</b></p>
 <p align="center">
@@ -24,9 +19,9 @@
   <a href="https://github.com/nourseen6/Lexical-Analyzer-compiler-"><img src="https://img.shields.io/badge/Lexical%20Analyzer-15151C?style=flat-square&logo=github&logoColor=F0597F" alt="Lexical Analyzer"></a>
 </p>
 
-### Toolbox
+### Technologies
 
-<img src="assets/diva/stack.svg" width="100%" alt="Toolbox: Cloud and DevOps, learning now, security, observability, languages, frameworks, AI and IoT.">
+<img src="assets/diva/stack.svg" width="100%" alt="Technologies: Cloud and DevOps, learning now, security, observability, languages, frameworks, AI and IoT.">
 
 <h3 align="center">Let's build something together</h3>
 
