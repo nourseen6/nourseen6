@@ -1,6 +1,5 @@
 <img src="assets/diva/cover.gif" width="100%" alt="Nourseen Tarek. Security Engineering, DevSecOps, Cloud, AI and Automation. A woman types on her laptop at night.">
 
-<img src="assets/diva/whoami.svg" width="100%" alt="About Nourseen: CS student at Alryada University (GPA 3.68, class of 2027), Observability Intern at EJADA, Fortinet Security Engineer track at DEPI / NTI, 1st place at the DevOpsDays Cairo 2026 Hackathon.">
 
 ### Currently working on
 
@@ -8,6 +7,10 @@
   <tr>
     <td width="50%"><a href="https://github.com/nourseen6/incident-commander"><img src="assets/diva/p-incident.svg" width="100%" alt="Incident Commander: multi-agent incident diagnosis, 1st place at DevOpsDays Cairo 2026."></a></td>
     <td width="50%"><a href="https://github.com/nourseen6/sentrix-core"><img src="assets/diva/p-sentrix.svg" width="100%" alt="SentriX Core: personal-safety wearable with edge AI. Graduation project."></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/nourseen6/secure-cicd-pipeline"><img src="assets/diva/p-pipeline.svg" width="100%" alt="Secure CI/CD Pipeline: tests, secret scanning, image scanning with Trivy, on GitHub Actions and Jenkins."></a></td>
+    <td width="50%"></td>
   </tr>
 </table>
 
