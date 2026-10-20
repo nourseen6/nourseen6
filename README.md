@@ -21,7 +21,7 @@
 
 ### Technologies
 
-<img src="assets/diva/stack.svg" width="100%" alt="Technologies: Cloud and DevOps, learning now, security, observability, languages, frameworks, AI and IoT.">
+<img src="assets/diva/tech.svg" width="100%" alt="Technologies: Cloud and DevOps, learning now, security, observability, languages, frameworks, AI and IoT.">
 
 <h3 align="center">Let's build something together</h3>
 
